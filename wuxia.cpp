@@ -43,12 +43,45 @@ bool __GetWuXiaProcess() {
 
 			if (!std::wstring(ProcessInformation->ImageName.Buffer).compare(WuXiaName) && WuXiaId.find(ProcessInformation->ProcessId) == WuXiaId.end()) {
 
-				WuXiaId.insert(ProcessInformation->ProcessId);
-
 				auto ProcessHandle = OpenProcess(PROCESS_ALL_ACCESS, false, HandleToULong(ProcessInformation->ProcessId));
 				if (!ProcessHandle || ProcessHandle == INVALID_HANDLE_VALUE) {
 					continue;
 				}
+
+				PROCESS_BASIC_INFORMATION WuXiaBasicInformation = {};
+				Status = ZwQueryInformationProcess(ProcessHandle, ProcessInformationClass::ProcessBasicInformation, &WuXiaBasicInformation, sizeof(PROCESS_BASIC_INFORMATION), &ReturnLength);
+				if (NT_ERROR(Status)) {
+					CloseHandle(ProcessHandle);
+					continue;
+				}
+
+				auto WuXiaPeb = reinterpret_cast<unsigned __int64>(WuXiaBasicInformation.PebBaseAddress);
+
+				auto PebPadding3 = reinterpret_cast<unsigned __int32*>(WuXiaPeb + 0x010C);
+
+				unsigned __int32 PebPadding3_Data = 0;
+				ULONG NumberOfBytesReaded = 0;
+				Status = ZwReadVirtualMemory(ProcessHandle, PebPadding3, &PebPadding3_Data, sizeof(unsigned __int32), &NumberOfBytesReaded);
+				if (NT_ERROR(Status)) {
+					CloseHandle(ProcessHandle);
+					continue;
+				}
+
+				if (PebPadding3_Data == 0x1234) {
+					WuXiaId.insert(ProcessInformation->ProcessId);
+					CloseHandle(ProcessHandle);
+					continue;
+				}
+
+				unsigned __int32 PebPadding3_Flag = 0x1234;
+				SIZE_T NumberOfBytesWritten = 0;
+				Status = ZwWriteVirtualMemory(ProcessHandle, PebPadding3, &PebPadding3_Flag, sizeof(unsigned __int32), &NumberOfBytesWritten);
+				if (NT_ERROR(Status)) {
+					CloseHandle(ProcessHandle);
+					continue;
+				}
+
+				WuXiaId.insert(ProcessInformation->ProcessId);
 
 				auto ImageBase = reinterpret_cast<unsigned __int64>(Bytes);
 

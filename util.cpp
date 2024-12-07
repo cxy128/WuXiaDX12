@@ -48,6 +48,11 @@ bool InitSystemRoutineAddress() {
 		return false;
 	}
 
+	ZwQueryInformationProcess = (fnZwQueryInformationProcess)GetProcAddress(Handle, "ZwQueryInformationProcess");
+	if (!ZwQueryInformationProcess) {
+		return false;
+	}
+
 	return true;
 }
 

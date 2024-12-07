@@ -28,6 +28,19 @@ enum class SYSTEM_INFORMATION_CLASS :unsigned __int32 {
 	SystemSupportedProcessArchitectures = 0xb5
 };
 
+struct PROCESS_BASIC_INFORMATION {
+	NTSTATUS ExitStatus;
+	void* PebBaseAddress;
+	ULONG_PTR AffinityMask;
+	LONG BasePriority;
+	ULONG_PTR UniqueProcessId;
+	ULONG_PTR InheritedFromUniqueProcessId;
+};
+
+enum class ProcessInformationClass :unsigned __int32 {
+	ProcessBasicInformation = 0,
+};
+
 using fnZwQuerySystemInformation = NTSTATUS(*)(SYSTEM_INFORMATION_CLASS SystemInfoClass, PVOID SystemInfoBuffer, ULONG SystemInfoBufferSize, PULONG BytesReturned);
 
 using fnZwAllocateVirtualMemory = NTSTATUS(*)(HANDLE ProcessHandle, PVOID* BaseAddress, ULONG_PTR ZeroBits, PSIZE_T RegionSize, ULONG AllocationType, ULONG Protect);
@@ -44,6 +57,8 @@ using fnZwGetNextThread = NTSTATUS(*)(HANDLE ProcessHandle, HANDLE ThreadHandle,
 
 using fnZwQueueApcThreadEx = NTSTATUS(*)(HANDLE ThreadHandle, ULONG Env, void* ApcRoutine, PVOID NormalContext, PVOID SystemArgument1, PVOID SystemArgument2);
 
+using fnZwQueryInformationProcess = NTSTATUS(*)(HANDLE ProcessHandle, ProcessInformationClass ProcessInfoClass, PVOID ProcessInformation, ULONG ProcessInformationLength, PULONG ReturnLength);
+
 inline fnZwQuerySystemInformation ZwQuerySystemInformation;
 
 inline fnZwAllocateVirtualMemory ZwAllocateVirtualMemory;
@@ -59,6 +74,8 @@ inline fnZwProtectVirtualMemory ZwProtectVirtualMemory;
 inline fnZwGetNextThread ZwGetNextThread;
 
 inline fnZwQueueApcThreadEx ZwQueueApcThreadEx;
+
+inline fnZwQueryInformationProcess ZwQueryInformationProcess;
 
 typedef void* (*fnLoadLibraryA)(const char* lpLibFileName);
 typedef unsigned __int64 (*fnGetProcAddress)(void* hModule, const char* lpProcName);
