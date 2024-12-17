@@ -10,6 +10,8 @@ inline std::wstring WuXiaName(L"WuXia_Client_dx12.exe");
 
 inline std::set<HANDLE> WuXiaId = {};
 
+inline std::string FilePath = {};
+
 void __WuXia();
 
 bool __GetWuXiaProcess();

@@ -1,0 +1,370 @@
+[
+    {
+        "QS.UI.Panel.Name": "QSUISelectCharacterPanel0",
+        "QS.UI.Panel.Object": "0x11E830A68"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUISystemSettingPanel0",
+        "QS.UI.Panel.Object": "0x37F2B000"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUITopPanel0",
+        "QS.UI.Panel.Object": "0x37F32800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBossHeadPanel0",
+        "QS.UI.Panel.Object": "0x34C9C000"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMoviePanel0",
+        "QS.UI.Panel.Object": "0x2E95DA40"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMessageInformPanel0",
+        "QS.UI.Panel.Object": "0x1A7739608"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUISkillPanel0",
+        "QS.UI.Panel.Object": "0x34C9B800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSYuLinGongFortressTipsPanel0",
+        "QS.UI.Panel.Object": "0x2E5EED80"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFindEquipmentPanel0",
+        "QS.UI.Panel.Object": "0x2DD17500"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIDynamicSkillPanel0",
+        "QS.UI.Panel.Object": "0x215C5000"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIEquipSkillPanel0",
+        "QS.UI.Panel.Object": "0x215B7C00"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIVerticalSkillPanel0",
+        "QS.UI.Panel.Object": "0x2957EA00"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINewVerticalSkillPanel0",
+        "QS.UI.Panel.Object": "0x2957F800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMusicShortcutPanel0",
+        "QS.UI.Panel.Object": "0x29583700"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUISneakSkillPanel0",
+        "QS.UI.Panel.Object": "0x34C83800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIAssassinatePanel0",
+        "QS.UI.Panel.Object": "0x34C82800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINPCSkillPanel0",
+        "QS.UI.Panel.Object": "0x1B0FF8D28"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIChatPanel0",
+        "QS.UI.Panel.Object": "0x1A82D3EA8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIChatAnnouncePanel0",
+        "QS.UI.Panel.Object": "0x1B252FCB8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIChatAnnounce2Panel0",
+        "QS.UI.Panel.Object": "0x1A8612298"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUITargetHeadPanel0",
+        "QS.UI.Panel.Object": "0x181498A68"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMiniMapPanel0",
+        "QS.UI.Panel.Object": "0x2CD65540"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPlayerBuffPanel0",
+        "QS.UI.Panel.Object": "0x371F0680"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIQuestTrackPanel0",
+        "QS.UI.Panel.Object": "0x2DCE7BC0"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIRevivePanel0",
+        "QS.UI.Panel.Object": "0x2DCEE100"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIEquipSlotPanel0",
+        "QS.UI.Panel.Object": "0x371F0800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPlayerPanel0",
+        "QS.UI.Panel.Object": "0x371F0980"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBagPanel0",
+        "QS.UI.Panel.Object": "0x3208C000"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFriendMainPanel0",
+        "QS.UI.Panel.Object": "0x1A5361228"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFuncPanel0",
+        "QS.UI.Panel.Object": "0xDBB866F8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBuffStatePanel0",
+        "QS.UI.Panel.Object": "0x1A86117E8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIWareHousePanel0",
+        "QS.UI.Panel.Object": "0x2DCE6E00"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUICastPanel0",
+        "QS.UI.Panel.Object": "0x371F0200"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIJinglianPanel0",
+        "QS.UI.Panel.Object": "0x18091D308"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIEventElementPanel0",
+        "QS.UI.Panel.Object": "0x1A8611CA8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIGeneralElementPanel0",
+        "QS.UI.Panel.Object": "0x1A8612038"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIEventElementPanelAnsha0",
+        "QS.UI.Panel.Object": "0x1A8613468"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIAchievementShowPanel0",
+        "QS.UI.Panel.Object": "0xDBB84758"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIEquipDurablePanel0",
+        "QS.UI.Panel.Object": "0x1A8617A78"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINewHelpPanel0",
+        "QS.UI.Panel.Object": "0x1AC749C18"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUILeftCharacterInfoPanel0",
+        "QS.UI.Panel.Object": "0x1AC74E118"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIGameFunBtnPanel0",
+        "QS.UI.Panel.Object": "0x1A535B2D8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPromoteSettingPanel0",
+        "QS.UI.Panel.Object": "0xDBB87B98"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIShopGroupPanel0",
+        "QS.UI.Panel.Object": "0x2DCE71C0"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFighterCampBagPanel0",
+        "QS.UI.Panel.Object": "0x1A69BF058"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFighterCampEquipPanel0",
+        "QS.UI.Panel.Object": "0x2DCE6A40"
+    },
+    {
+        "QS.UI.Panel.Name": "TxwsSkillPanel0",
+        "QS.UI.Panel.Object": "0x34C81800"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIGongliChangedNotifyPanel0",
+        "QS.UI.Panel.Object": "0x2DCE5140"
+    },
+    {
+        "QS.UI.Panel.Name": "QSYuLinGongZhanliChangePanel0",
+        "QS.UI.Panel.Object": "0x2DCE5780"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBusinessCardPanel0",
+        "QS.UI.Panel.Object": "0x2957D180"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIAcupointPanel_Other0",
+        "QS.UI.Panel.Object": "0x2E927BC0"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIJingLianAttriPanel0",
+        "QS.UI.Panel.Object": "0x1B16436A8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIDialogPanel0",
+        "QS.UI.Panel.Object": "0x2F9C5380"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIXiuWeiWarningPanel0",
+        "QS.UI.Panel.Object": "0x1DBE4FE78"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBackFlowPanel0",
+        "QS.UI.Panel.Object": "0x1F7343058"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPasswordVerifyPanel0",
+        "QS.UI.Panel.Object": "0x13B4A6698"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUITipsPanel0",
+        "QS.UI.Panel.Object": "0x13B4A8B68"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINpcDialogPanel0",
+        "QS.UI.Panel.Object": "0x1E5459B88"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIQuestionPanel0",
+        "QS.UI.Panel.Object": "0x1A48BB198"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIRankAndPlayerInformationPanel0",
+        "QS.UI.Panel.Object": "0x1E5456468"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIRankAndPlayerInformationPanel1",
+        "QS.UI.Panel.Object": "0x1E5469F68"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUICefBrowserCommonPanel0",
+        "QS.UI.Panel.Object": "0x20374A8B8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPenguinRacePanel0",
+        "QS.UI.Panel.Object": "0x1B2DA2C48"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIActivityCalendarPanel0",
+        "QS.UI.Panel.Object": "0x201BA2468"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMiniShopPanel0",
+        "QS.UI.Panel.Object": "0x1F2C02018"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIBackFlowPanel1",
+        "QS.UI.Panel.Object": "0x1F52FF578"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIChampionshipGiftPanel0",
+        "QS.UI.Panel.Object": "0x1DBC4EF58"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIJuQingZhiPanel0",
+        "QS.UI.Panel.Object": "0x1B2DA3A88"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIRankAndPlayerInformationPanel2",
+        "QS.UI.Panel.Object": "0x1E5469248"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIWingForceMajorPanel0",
+        "QS.UI.Panel.Object": "0x13C695828"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIHuabenListPanel0",
+        "QS.UI.Panel.Object": "0x1805E0048"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUITianbofuMainPanel0",
+        "QS.UI.Panel.Object": "0x1ACC81B48"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUITowerPanel",
+        "QS.UI.Panel.Object": "0x1B2DA03E8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIJianghuIdentityPlayPanel0",
+        "QS.UI.Panel.Object": "0x1353C8688"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIHouseBookShelfPanel0",
+        "QS.UI.Panel.Object": "0x1F2C0E058"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUICareerSysPanel0",
+        "QS.UI.Panel.Object": "0x1E546E258"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUISeaMainPanel",
+        "QS.UI.Panel.Object": "0x1B2DA1948"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIHomeSimulatorPanel0",
+        "QS.UI.Panel.Object": "0x1B1A903F8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUILandManagerPanel0",
+        "QS.UI.Panel.Object": "0x7B768858"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIVillaOverviewPanel",
+        "QS.UI.Panel.Object": "0x2D701980"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIPetInfoPanel0",
+        "QS.UI.Panel.Object": "0x1A29D40F8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIMenuPanel0",
+        "QS.UI.Panel.Object": "0x1B1A922D8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUISkillInfoEXPanel0",
+        "QS.UI.Panel.Object": "0x20464A708"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIAreaMapPanel0",
+        "QS.UI.Panel.Object": "0x1EDB02DF8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINpcDialogSubtitlePanel0",
+        "QS.UI.Panel.Object": "0x1A8614768"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINpcDialogExitPanel0",
+        "QS.UI.Panel.Object": "0x1A8617358"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIAssassinationInfoPanel0",
+        "QS.UI.Panel.Object": "0x134DAE988"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIGiftColPanel0",
+        "QS.UI.Panel.Object": "0x1B1A18FC8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINewTeamPlatformPanel0",
+        "QS.UI.Panel.Object": "0x22ABDDFF8"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIShopPanel0",
+        "QS.UI.Panel.Object": "0x209317A68"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUIFashionPanel0",
+        "QS.UI.Panel.Object": "0x2CD6FA40"
+    },
+    {
+        "QS.UI.Panel.Name": "QSUINewMeiliPanel0",
+        "QS.UI.Panel.Object": "0x240481208"
+    }
+]

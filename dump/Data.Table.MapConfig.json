@@ -1,0 +1,4026 @@
+[
+    {
+        "MapId": "0x367E",
+        "MapName": "云上之城"
+    },
+    {
+        "MapId": "0x367F",
+        "MapName": "雪衣主线-空山雨歇"
+    },
+    {
+        "MapId": "0x3680",
+        "MapName": "雪衣主线-一飞冲天"
+    },
+    {
+        "MapId": "0x3682",
+        "MapName": "紫霞仙居"
+    },
+    {
+        "MapId": "0x3683",
+        "MapName": "潭下之窟"
+    },
+    {
+        "MapId": "0x3685",
+        "MapName": "玄甲之芯"
+    },
+    {
+        "MapId": "0x3686",
+        "MapName": "离弦之音"
+    },
+    {
+        "MapId": "0x3687",
+        "MapName": "殿前复命"
+    },
+    {
+        "MapId": "0x3688",
+        "MapName": "拜会师兄"
+    },
+    {
+        "MapId": "0x3689",
+        "MapName": "长生剑派"
+    },
+    {
+        "MapId": "0x368A",
+        "MapName": "求见宗主"
+    },
+    {
+        "MapId": "0x368B",
+        "MapName": "雾起云深"
+    },
+    {
+        "MapId": "0x2904",
+        "MapName": "秦川·剑坪"
+    },
+    {
+        "MapId": "0x2905",
+        "MapName": "秦川·沉剑池"
+    },
+    {
+        "MapId": "0x2906",
+        "MapName": "秦川·弑剑阁"
+    },
+    {
+        "MapId": "0x2907",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x2908",
+        "MapName": "秦川·古祭坛"
+    },
+    {
+        "MapId": "0x2909",
+        "MapName": "秦川·沉剑池"
+    },
+    {
+        "MapId": "0x290A",
+        "MapName": "秦川·沉剑池"
+    },
+    {
+        "MapId": "0x290C",
+        "MapName": "玉泉灵踪"
+    },
+    {
+        "MapId": "0x290D",
+        "MapName": "苍林偃月"
+    },
+    {
+        "MapId": "0x290E",
+        "MapName": "山巅之约"
+    },
+    {
+        "MapId": "0x290F",
+        "MapName": "相敬如宾"
+    },
+    {
+        "MapId": "0x2910",
+        "MapName": "药谷龙踪"
+    },
+    {
+        "MapId": "0x2911",
+        "MapName": "惊世双骄"
+    },
+    {
+        "MapId": "0x2912",
+        "MapName": "尘埃落定"
+    },
+    {
+        "MapId": "0x2913",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x2914",
+        "MapName": "纷扰鹦哥镇"
+    },
+    {
+        "MapId": "0x2915",
+        "MapName": "天仙会天魔"
+    },
+    {
+        "MapId": "0x2916",
+        "MapName": "霸业共千秋"
+    },
+    {
+        "MapId": "0x2917",
+        "MapName": "一剑荡群魔"
+    },
+    {
+        "MapId": "0x2918",
+        "MapName": "谁堪慰别离"
+    },
+    {
+        "MapId": "0x2919",
+        "MapName": "慧眼试剑心"
+    },
+    {
+        "MapId": "0x291A",
+        "MapName": "此情成追忆"
+    },
+    {
+        "MapId": "0x291B",
+        "MapName": "秦川劫镖位面"
+    },
+    {
+        "MapId": "0x291C",
+        "MapName": "秦川天下镖位面"
+    },
+    {
+        "MapId": "0x291E",
+        "MapName": "秦川·太白山巅"
+    },
+    {
+        "MapId": "0x2921",
+        "MapName": "太白大轻功"
+    },
+    {
+        "MapId": "0x2922",
+        "MapName": "秦川·普通天峰会八荒"
+    },
+    {
+        "MapId": "0x2923",
+        "MapName": "秦川·挑战天峰会八荒"
+    },
+    {
+        "MapId": "0x2924",
+        "MapName": "荆湖主线-不欢而散"
+    },
+    {
+        "MapId": "0x51F5",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x7E435",
+        "MapName": "紫升金曲无忆"
+    },
+    {
+        "MapId": "0x7E436",
+        "MapName": "紫升金笑道人"
+    },
+    {
+        "MapId": "0x300C",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x300D",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x300E",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x300F",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x3010",
+        "MapName": "巴蜀·忘忧谷"
+    },
+    {
+        "MapId": "0x3011",
+        "MapName": "巴蜀·碎星楼"
+    },
+    {
+        "MapId": "0x3012",
+        "MapName": "巴蜀·傀儡房"
+    },
+    {
+        "MapId": "0x3013",
+        "MapName": "巴蜀·唐门"
+    },
+    {
+        "MapId": "0x3014",
+        "MapName": "唐门大轻功"
+    },
+    {
+        "MapId": "0x3016",
+        "MapName": "荆湖主线-瞬息之变"
+    },
+    {
+        "MapId": "0x3017",
+        "MapName": "荆湖主线-美人出浴"
+    },
+    {
+        "MapId": "0x64579",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x6457A",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x301A",
+        "MapName": "巴蜀主线-双月逢燕"
+    },
+    {
+        "MapId": "0x301B",
+        "MapName": "巴蜀主线-血光之灾"
+    },
+    {
+        "MapId": "0x301C",
+        "MapName": "巴蜀主线-醉饮风花"
+    },
+    {
+        "MapId": "0x301D",
+        "MapName": "巴蜀主线-步步紧逼"
+    },
+    {
+        "MapId": "0x301E",
+        "MapName": "巴蜀主线-再度相逼"
+    },
+    {
+        "MapId": "0x301F",
+        "MapName": "巴蜀主线-夜雨滂沱"
+    },
+    {
+        "MapId": "0x3021",
+        "MapName": "巴蜀主线-是敌是友"
+    },
+    {
+        "MapId": "0x3022",
+        "MapName": "蜀中行·古镇一抹红"
+    },
+    {
+        "MapId": "0x3023",
+        "MapName": "蜀中行·唐门会双秀"
+    },
+    {
+        "MapId": "0x3024",
+        "MapName": "蜀中行·凌云壁风波"
+    },
+    {
+        "MapId": "0x3025",
+        "MapName": "蜀中行·寻觅青枫影"
+    },
+    {
+        "MapId": "0x3026",
+        "MapName": "八荒缘·双秀访四盟"
+    },
+    {
+        "MapId": "0x3027",
+        "MapName": "八荒缘·同为有福人"
+    },
+    {
+        "MapId": "0xC38E9",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0xC38EA",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x302A",
+        "MapName": "八荒缘·巾帼胜须眉"
+    },
+    {
+        "MapId": "0x302B",
+        "MapName": "血刀客·难离江湖路"
+    },
+    {
+        "MapId": "0x302C",
+        "MapName": "巴蜀·凌云壁"
+    },
+    {
+        "MapId": "0xB8150",
+        "MapName": "天波府将领层"
+    },
+    {
+        "MapId": "0x3034",
+        "MapName": "天命风流肩挑重任a"
+    },
+    {
+        "MapId": "0x3035",
+        "MapName": "天命风流衣冠优孟a"
+    },
+    {
+        "MapId": "0x3036",
+        "MapName": "天命风流调虎离山a"
+    },
+    {
+        "MapId": "0x3037",
+        "MapName": "天命风流来鸿去燕a"
+    },
+    {
+        "MapId": "0x3038",
+        "MapName": "天命风流暗礁险滩a"
+    },
+    {
+        "MapId": "0x3039",
+        "MapName": "天命风流明月无心a"
+    },
+    {
+        "MapId": "0x303A",
+        "MapName": "天命风流琴瑟和鸣a"
+    },
+    {
+        "MapId": "0x303B",
+        "MapName": "天命风流神工意匠a"
+    },
+    {
+        "MapId": "0x303C",
+        "MapName": "天命风流天命风流a"
+    },
+    {
+        "MapId": "0x303D",
+        "MapName": "天命风流肩挑重任b"
+    },
+    {
+        "MapId": "0x303E",
+        "MapName": "天命风流反客为主b"
+    },
+    {
+        "MapId": "0x303F",
+        "MapName": "天命风流调虎离山b"
+    },
+    {
+        "MapId": "0x3040",
+        "MapName": "天命风流来鸿去燕b"
+    },
+    {
+        "MapId": "0x3041",
+        "MapName": "天命风流明月无心b"
+    },
+    {
+        "MapId": "0x3042",
+        "MapName": "天命风流暗度陈仓b"
+    },
+    {
+        "MapId": "0x3043",
+        "MapName": "天命风流神工意匠b"
+    },
+    {
+        "MapId": "0x3044",
+        "MapName": "天命风流琴瑟和鸣b"
+    },
+    {
+        "MapId": "0x3045",
+        "MapName": "天命风流天命风流b"
+    },
+    {
+        "MapId": "0x3046",
+        "MapName": "青龙会·无风不起浪"
+    },
+    {
+        "MapId": "0x3047",
+        "MapName": "火中光·纵死侠骨香"
+    },
+    {
+        "MapId": "0x3048",
+        "MapName": "火中光·孤云远山僧"
+    },
+    {
+        "MapId": "0x3049",
+        "MapName": "火中光·佳酿墨间香"
+    },
+    {
+        "MapId": "0x304A",
+        "MapName": "火中光·不若神仙侣"
+    },
+    {
+        "MapId": "0x304B",
+        "MapName": "火中光·齐心换太平"
+    },
+    {
+        "MapId": "0x304C",
+        "MapName": "少年游·冥河滔天浪"
+    },
+    {
+        "MapId": "0xB9CA8",
+        "MapName": "神策井-荡平龙首山"
+    },
+    {
+        "MapId": "0xB9CA9",
+        "MapName": "神策井-鏖战郡王府"
+    },
+    {
+        "MapId": "0xB9CAB",
+        "MapName": "神策井-奇袭血衣楼"
+    },
+    {
+        "MapId": "0xB9CAC",
+        "MapName": "神策井-强袭神武门"
+    },
+    {
+        "MapId": "0xB9CAD",
+        "MapName": "神策井-雨夜镇天牢"
+    },
+    {
+        "MapId": "0xB9CAE",
+        "MapName": "神策井-血战苍梧城"
+    },
+    {
+        "MapId": "0xB9CAF",
+        "MapName": "神策井-天峰会八荒"
+    },
+    {
+        "MapId": "0xB9CB0",
+        "MapName": "神策井-喋血万雪窟"
+    },
+    {
+        "MapId": "0xB9CB1",
+        "MapName": "神策井-开封会八荒"
+    },
+    {
+        "MapId": "0xB9CB2",
+        "MapName": "神策井-决战嘲天宫"
+    },
+    {
+        "MapId": "0x29CC",
+        "MapName": "杭州·土地庙"
+    },
+    {
+        "MapId": "0x29CD",
+        "MapName": "杭州·盘龙镇"
+    },
+    {
+        "MapId": "0x29CE",
+        "MapName": "杭州·枫荷桥"
+    },
+    {
+        "MapId": "0x29CF",
+        "MapName": "杭州·天星阁"
+    },
+    {
+        "MapId": "0x29D0",
+        "MapName": "杭州·钱塘县"
+    },
+    {
+        "MapId": "0x29D1",
+        "MapName": "杭州·淬剑谷"
+    },
+    {
+        "MapId": "0x29D6",
+        "MapName": "杭州·天波府"
+    },
+    {
+        "MapId": "0x29D7",
+        "MapName": "杭州·雷峰塔"
+    },
+    {
+        "MapId": "0x29D8",
+        "MapName": "杭州·一醉轩"
+    },
+    {
+        "MapId": "0x29D9",
+        "MapName": "杭州·西湖"
+    },
+    {
+        "MapId": "0x29DA",
+        "MapName": "杭州·吴王陵"
+    },
+    {
+        "MapId": "0x29DB",
+        "MapName": "九华·离魂峡"
+    },
+    {
+        "MapId": "0x29DC",
+        "MapName": "东越·宁海城"
+    },
+    {
+        "MapId": "0x29DD",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x3778",
+        "MapName": "徐海·斗兽场"
+    },
+    {
+        "MapId": "0x29DF",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0x29E0",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0x29E1",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E2",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E3",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E4",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E5",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E6",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E7",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E8",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29E9",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x29EA",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x29EB",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x29EC",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x29ED",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x29EE",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x52BD",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x29F0",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x29F1",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x29F2",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x29F3",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x29F4",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x29F5",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x29F6",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x29F7",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x29F8",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x29F9",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x29FA",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x29FB",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x29FC",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x29FD",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x29FE",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x29FF",
+        "MapName": "真武竞技场"
+    },
+    {
+        "MapId": "0x2A00",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A01",
+        "MapName": "杭州·慈云林"
+    },
+    {
+        "MapId": "0x2A02",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A03",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A04",
+        "MapName": "杭州·永兴寺"
+    },
+    {
+        "MapId": "0x2A05",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A06",
+        "MapName": "杭州·天牢"
+    },
+    {
+        "MapId": "0x2A08",
+        "MapName": "丐帮"
+    },
+    {
+        "MapId": "0x2A09",
+        "MapName": "丐帮"
+    },
+    {
+        "MapId": "0x2A0A",
+        "MapName": "丐帮"
+    },
+    {
+        "MapId": "0x2A0B",
+        "MapName": "丐帮"
+    },
+    {
+        "MapId": "0x2A0C",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x1ADB2",
+        "MapName": "书画创作-悟剑观心"
+    },
+    {
+        "MapId": "0x1ADB3",
+        "MapName": "书画创作-孤鸿一诺"
+    },
+    {
+        "MapId": "0x2A0F",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x2A10",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x2A11",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A13",
+        "MapName": "杭州·问水庄"
+    },
+    {
+        "MapId": "0x2A14",
+        "MapName": "杭州·问水庄"
+    },
+    {
+        "MapId": "0x2A15",
+        "MapName": "杭州赛会决赛竞技场"
+    },
+    {
+        "MapId": "0x2A16",
+        "MapName": "天香谷"
+    },
+    {
+        "MapId": "0x2A17",
+        "MapName": "天香谷"
+    },
+    {
+        "MapId": "0x2A18",
+        "MapName": "天香谷"
+    },
+    {
+        "MapId": "0x2A19",
+        "MapName": "天香谷"
+    },
+    {
+        "MapId": "0x3E81",
+        "MapName": "普通·秦川万雪窟"
+    },
+    {
+        "MapId": "0x3E82",
+        "MapName": "挑战·秦川万雪窟"
+    },
+    {
+        "MapId": "0x7A121",
+        "MapName": "码头"
+    },
+    {
+        "MapId": "0x7A122",
+        "MapName": "海河洲码头"
+    },
+    {
+        "MapId": "0x7A123",
+        "MapName": "东越码头"
+    },
+    {
+        "MapId": "0x7A124",
+        "MapName": "钱塘港码头"
+    },
+    {
+        "MapId": "0x7A125",
+        "MapName": "江洋港码头"
+    },
+    {
+        "MapId": "0x7A126",
+        "MapName": "泉州港码头"
+    },
+    {
+        "MapId": "0x7A127",
+        "MapName": "天涯盐场码头"
+    },
+    {
+        "MapId": "0x7A128",
+        "MapName": "望海岬码头"
+    },
+    {
+        "MapId": "0x7A129",
+        "MapName": "灵鹿岛码头"
+    },
+    {
+        "MapId": "0x7A12A",
+        "MapName": "沧浪岛码头"
+    },
+    {
+        "MapId": "0x7A12B",
+        "MapName": "宝矿山码头"
+    },
+    {
+        "MapId": "0x7A12C",
+        "MapName": "幽灵岛码头"
+    },
+    {
+        "MapId": "0x7A12D",
+        "MapName": "琅嬛福地码头"
+    },
+    {
+        "MapId": "0x7A12E",
+        "MapName": "大沧海码头"
+    },
+    {
+        "MapId": "0x631F1",
+        "MapName": "云滇"
+    },
+    {
+        "MapId": "0x631F2",
+        "MapName": "云滇"
+    },
+    {
+        "MapId": "0x2A30",
+        "MapName": "杭州·凤凰集"
+    },
+    {
+        "MapId": "0x2A31",
+        "MapName": "杭州·讲武堂"
+    },
+    {
+        "MapId": "0x2A32",
+        "MapName": "杭州·天绝禅院"
+    },
+    {
+        "MapId": "0x2A33",
+        "MapName": "杭州·东平郡王府"
+    },
+    {
+        "MapId": "0x2A3A",
+        "MapName": "黑与白·丹书护豺狼"
+    },
+    {
+        "MapId": "0x2A3B",
+        "MapName": "黑与白·子夜露锋芒"
+    },
+    {
+        "MapId": "0x2A3C",
+        "MapName": "优昙花·华发复青丝"
+    },
+    {
+        "MapId": "0x2A3D",
+        "MapName": "优昙花·夺花尽心计"
+    },
+    {
+        "MapId": "0x2A3E",
+        "MapName": "姊妹缘·未知天人隔"
+    },
+    {
+        "MapId": "0x2A3F",
+        "MapName": "姊妹缘·一点玲珑心"
+    },
+    {
+        "MapId": "0x2A40",
+        "MapName": "姊妹缘·曲远暗香随"
+    },
+    {
+        "MapId": "0x2A41",
+        "MapName": "少年游·铁剑门往事"
+    },
+    {
+        "MapId": "0x2A42",
+        "MapName": "少年游·谁冶痴心儿"
+    },
+    {
+        "MapId": "0x37DD",
+        "MapName": "五毒-四遗风骨"
+    },
+    {
+        "MapId": "0x37DE",
+        "MapName": "五毒-巫月圣坛"
+    },
+    {
+        "MapId": "0x37DF",
+        "MapName": "五毒-羲和扶桑"
+    },
+    {
+        "MapId": "0x37E0",
+        "MapName": "五毒-六圣奇居"
+    },
+    {
+        "MapId": "0x37E1",
+        "MapName": "五毒-月陨天华"
+    },
+    {
+        "MapId": "0x37E2",
+        "MapName": "五毒-最后送别"
+    },
+    {
+        "MapId": "0x37E3",
+        "MapName": "五毒见闻-祭亡妻"
+    },
+    {
+        "MapId": "0x37E4",
+        "MapName": "五毒见闻-说旧事"
+    },
+    {
+        "MapId": "0x37E5",
+        "MapName": "五毒-巡游"
+    },
+    {
+        "MapId": "0x37E6",
+        "MapName": "五毒大轻功"
+    },
+    {
+        "MapId": "0x37E7",
+        "MapName": "少年游·圣女代相迭"
+    },
+    {
+        "MapId": "0x64D49",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x64D4A",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x5321",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x2A62",
+        "MapName": "杭州·杨家村"
+    },
+    {
+        "MapId": "0x2A63",
+        "MapName": "杭州·杨家村"
+    },
+    {
+        "MapId": "0xB8920",
+        "MapName": "伙伴远征BOSS层"
+    },
+    {
+        "MapId": "0x2A66",
+        "MapName": "杭州·衙内府"
+    },
+    {
+        "MapId": "0x668A1",
+        "MapName": "开封十二时辰"
+    },
+    {
+        "MapId": "0x2A8A",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A8E",
+        "MapName": "杭州·单人郡王府"
+    },
+    {
+        "MapId": "0x2A8F",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2A90",
+        "MapName": "杭州·东坪郡王府"
+    },
+    {
+        "MapId": "0x2A91",
+        "MapName": "杭州·试练"
+    },
+    {
+        "MapId": "0x2A92",
+        "MapName": "杭州·东坪郡王府"
+    },
+    {
+        "MapId": "0x2A93",
+        "MapName": "杭州·东坪郡王府"
+    },
+    {
+        "MapId": "0x2A94",
+        "MapName": "江南·飞雪滩"
+    },
+    {
+        "MapId": "0x2A95",
+        "MapName": "江南·云碧塔"
+    },
+    {
+        "MapId": "0x2A96",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A97",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A98",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A99",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A9A",
+        "MapName": "江南·龙首山"
+    },
+    {
+        "MapId": "0x2A9B",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A9C",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A9D",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2A9E",
+        "MapName": "江南·枫桥镇"
+    },
+    {
+        "MapId": "0x2A9F",
+        "MapName": "江南·龙首山"
+    },
+    {
+        "MapId": "0x2AA0",
+        "MapName": "江南·飞雪滩"
+    },
+    {
+        "MapId": "0x2AA1",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2AA6",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2AA7",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2AA8",
+        "MapName": "江南·押镖"
+    },
+    {
+        "MapId": "0x2AA9",
+        "MapName": "江南劫NPC初级镖1"
+    },
+    {
+        "MapId": "0x2AAA",
+        "MapName": "江南NPC劫单人镖1"
+    },
+    {
+        "MapId": "0x2AAB",
+        "MapName": "江南NPC劫多人镖1"
+    },
+    {
+        "MapId": "0x2AAC",
+        "MapName": "江南·龙首山"
+    },
+    {
+        "MapId": "0x2AAD",
+        "MapName": "江南NPC劫中级单人镖1"
+    },
+    {
+        "MapId": "0x2AAE",
+        "MapName": "江南NPC劫中级多人镖1"
+    },
+    {
+        "MapId": "0x2AAF",
+        "MapName": "江南劫NPC中级镖1"
+    },
+    {
+        "MapId": "0x2AB0",
+        "MapName": "江南劫米饷纲"
+    },
+    {
+        "MapId": "0x2AB2",
+        "MapName": "照孤星·冥河难现踪"
+    },
+    {
+        "MapId": "0x2AB3",
+        "MapName": "照孤星·长风慕红渠"
+    },
+    {
+        "MapId": "0x2AB4",
+        "MapName": "照孤星·龙吟询奇毒"
+    },
+    {
+        "MapId": "0x2AB5",
+        "MapName": "照孤星·挥剑破孤星"
+    },
+    {
+        "MapId": "0x2AB6",
+        "MapName": "风骤起·青枫无影踪"
+    },
+    {
+        "MapId": "0x5385",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x2AB8",
+        "MapName": "风骤起·携手破连环"
+    },
+    {
+        "MapId": "0x2AB9",
+        "MapName": "何为侠·江南现飞贼"
+    },
+    {
+        "MapId": "0x2ABA",
+        "MapName": "何为侠·黑衣行侠义"
+    },
+    {
+        "MapId": "0x2ABB",
+        "MapName": "何为侠·尽在不言中"
+    },
+    {
+        "MapId": "0x2ABC",
+        "MapName": "江南·单人龙首山"
+    },
+    {
+        "MapId": "0x2ABD",
+        "MapName": "少年游·真武当门户"
+    },
+    {
+        "MapId": "0x2ABE",
+        "MapName": "大地图任务绝智轩纪清思比斗"
+    },
+    {
+        "MapId": "0x2ABF",
+        "MapName": "师徒历程碑2"
+    },
+    {
+        "MapId": "0x2AC0",
+        "MapName": "师徒历程碑1"
+    },
+    {
+        "MapId": "0x2AC1",
+        "MapName": "师徒历程碑3"
+    },
+    {
+        "MapId": "0x2AC2",
+        "MapName": "师徒拜师门"
+    },
+    {
+        "MapId": "0x53021",
+        "MapName": "红尘屿-共饲灵犀"
+    },
+    {
+        "MapId": "0x53022",
+        "MapName": "同心捉崽"
+    },
+    {
+        "MapId": "0x53023",
+        "MapName": "共许星辰"
+    },
+    {
+        "MapId": "0x53024",
+        "MapName": "红尘屿"
+    },
+    {
+        "MapId": "0x53025",
+        "MapName": "星河证此情"
+    },
+    {
+        "MapId": "0x53026",
+        "MapName": "双飞天地间"
+    },
+    {
+        "MapId": "0x53027",
+        "MapName": "一鹤排云上"
+    },
+    {
+        "MapId": "0x53028",
+        "MapName": "一诺锁心寰回看"
+    },
+    {
+        "MapId": "0x53029",
+        "MapName": "飞花祝假期"
+    },
+    {
+        "MapId": "0x5302A",
+        "MapName": "很想很想你·七夕"
+    },
+    {
+        "MapId": "0x3C0F0",
+        "MapName": "惜取眼前人"
+    },
+    {
+        "MapId": "0x3C0F1",
+        "MapName": "七夕·从长计议"
+    },
+    {
+        "MapId": "0x3C0F2",
+        "MapName": "七夕·汴京重逢"
+    },
+    {
+        "MapId": "0x3C0F3",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F4",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F5",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F6",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F7",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F8",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0F9",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0FA",
+        "MapName": "天涯说书人"
+    },
+    {
+        "MapId": "0x3C0FB",
+        "MapName": "七夕·花好月圆"
+    },
+    {
+        "MapId": "0x3C0FC",
+        "MapName": "七夕·金风玉露"
+    },
+    {
+        "MapId": "0x3C0FD",
+        "MapName": "七夕·初遇龙牙"
+    },
+    {
+        "MapId": "0x3C0FE",
+        "MapName": "七夕·归去来兮"
+    },
+    {
+        "MapId": "0x3C0FF",
+        "MapName": "七夕·巧取竹笛"
+    },
+    {
+        "MapId": "0x3C100",
+        "MapName": "七夕·曲牵情丝"
+    },
+    {
+        "MapId": "0x3C101",
+        "MapName": "海河洲码头"
+    },
+    {
+        "MapId": "0x2AEE",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x493E1",
+        "MapName": "徐海循环见闻第一部分"
+    },
+    {
+        "MapId": "0x493E2",
+        "MapName": "徐海循环见闻第二部分"
+    },
+    {
+        "MapId": "0x493E3",
+        "MapName": "徐海循环见闻第三部分"
+    },
+    {
+        "MapId": "0x493E4",
+        "MapName": "江南循环见闻第一部分"
+    },
+    {
+        "MapId": "0x493E5",
+        "MapName": "江南循环见闻第二部分"
+    },
+    {
+        "MapId": "0x493E6",
+        "MapName": "江南循环见闻第三部分"
+    },
+    {
+        "MapId": "0x493E7",
+        "MapName": "东越循环见闻第一部分"
+    },
+    {
+        "MapId": "0x493E8",
+        "MapName": "东越循环见闻第二部分"
+    },
+    {
+        "MapId": "0x493E9",
+        "MapName": "东越循环见闻第三部分"
+    },
+    {
+        "MapId": "0x493EA",
+        "MapName": "九华循环见闻第一部分"
+    },
+    {
+        "MapId": "0x493EB",
+        "MapName": "九华循环见闻第二部分"
+    },
+    {
+        "MapId": "0x493EC",
+        "MapName": "九华循环见闻第三部分"
+    },
+    {
+        "MapId": "0x53E9",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x3F7A1",
+        "MapName": "燕云·赛马大会"
+    },
+    {
+        "MapId": "0x3F7A2",
+        "MapName": "长洲孤月"
+    },
+    {
+        "MapId": "0x3F7A3",
+        "MapName": "龙渊"
+    },
+    {
+        "MapId": "0x3F7A4",
+        "MapName": "徐海之战"
+    },
+    {
+        "MapId": "0x3F7A6",
+        "MapName": "莲华之境"
+    },
+    {
+        "MapId": "0x3F7A7",
+        "MapName": "桃源"
+    },
+    {
+        "MapId": "0x3F7A9",
+        "MapName": "馥郁之战"
+    },
+    {
+        "MapId": "0x3F7AA",
+        "MapName": "馥郁之战【引】"
+    },
+    {
+        "MapId": "0x3F7AC",
+        "MapName": "馥郁之战_游览"
+    },
+    {
+        "MapId": "0x3F7AD",
+        "MapName": "莲华之境"
+    },
+    {
+        "MapId": "0x3F7AE",
+        "MapName": "荆湖2V2竞技场"
+    },
+    {
+        "MapId": "0x3F7AF",
+        "MapName": "莲华之境"
+    },
+    {
+        "MapId": "0x2B5B",
+        "MapName": "江南·试练"
+    },
+    {
+        "MapId": "0x2B5C",
+        "MapName": "东越·德化楼"
+    },
+    {
+        "MapId": "0x2B5D",
+        "MapName": "东越·泰宁楼"
+    },
+    {
+        "MapId": "0x2B5E",
+        "MapName": "东越·老爷庙"
+    },
+    {
+        "MapId": "0x2B5F",
+        "MapName": "东越·倪府"
+    },
+    {
+        "MapId": "0x2B60",
+        "MapName": "东越·青龙潭"
+    },
+    {
+        "MapId": "0x2B61",
+        "MapName": "东越·万象门"
+    },
+    {
+        "MapId": "0x2B62",
+        "MapName": "东越·藏珍阁"
+    },
+    {
+        "MapId": "0x2B63",
+        "MapName": "东越·野鹤山隘"
+    },
+    {
+        "MapId": "0x2B64",
+        "MapName": "东越·闽越旧城"
+    },
+    {
+        "MapId": "0x2B65",
+        "MapName": "东越·桑楚山庄"
+    },
+    {
+        "MapId": "0xB90F0",
+        "MapName": "伙伴远征小怪层"
+    },
+    {
+        "MapId": "0x2B68",
+        "MapName": "东越·三清观"
+    },
+    {
+        "MapId": "0x2B69",
+        "MapName": "东越·夏荷翠池"
+    },
+    {
+        "MapId": "0x2B6A",
+        "MapName": "东越四海镖位面"
+    },
+    {
+        "MapId": "0x2B6B",
+        "MapName": "东越NPC劫多人镖位面"
+    },
+    {
+        "MapId": "0x2B6C",
+        "MapName": "东越劫NPC镖位面"
+    },
+    {
+        "MapId": "0x2B6D",
+        "MapName": "东越日常劫镖位面"
+    },
+    {
+        "MapId": "0x3908",
+        "MapName": "徐海·神刀1孤刃台"
+    },
+    {
+        "MapId": "0x3909",
+        "MapName": "徐海·神刀2归刀殿"
+    },
+    {
+        "MapId": "0x2B70",
+        "MapName": "荆湖主线-桃源私会"
+    },
+    {
+        "MapId": "0x2B71",
+        "MapName": "荆湖主线-弦外之音"
+    },
+    {
+        "MapId": "0x2B72",
+        "MapName": "荆湖主线-武林第一人"
+    },
+    {
+        "MapId": "0x2B73",
+        "MapName": "大地图任务绝智轩倭寇"
+    },
+    {
+        "MapId": "0x2B74",
+        "MapName": "大地图任务绝智轩倭寇"
+    },
+    {
+        "MapId": "0x2B75",
+        "MapName": "大地图任务海政司招兵"
+    },
+    {
+        "MapId": "0x2B76",
+        "MapName": "大地图任务海政司打倪庄"
+    },
+    {
+        "MapId": "0x3911",
+        "MapName": "徐海·见闻祭拜"
+    },
+    {
+        "MapId": "0x3912",
+        "MapName": "徐海·见闻鹰场"
+    },
+    {
+        "MapId": "0x3913",
+        "MapName": "徐海·神刀10巡游"
+    },
+    {
+        "MapId": "0x3914",
+        "MapName": "徐海·神刀大轻功"
+    },
+    {
+        "MapId": "0x3915",
+        "MapName": "少年游·一怒闯天关"
+    },
+    {
+        "MapId": "0x3916",
+        "MapName": "少年游·杀手与刀客"
+    },
+    {
+        "MapId": "0x544D",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x2BB6",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x2BC1",
+        "MapName": "东越·茶驿"
+    },
+    {
+        "MapId": "0x2BC2",
+        "MapName": "东越·香蝶林"
+    },
+    {
+        "MapId": "0x2BC3",
+        "MapName": "东越·未知"
+    },
+    {
+        "MapId": "0x2BC4",
+        "MapName": "东越·梯田"
+    },
+    {
+        "MapId": "0x2BC5",
+        "MapName": "东越·未知"
+    },
+    {
+        "MapId": "0x2BC6",
+        "MapName": "东越·白鹭洲"
+    },
+    {
+        "MapId": "0x2BC7",
+        "MapName": "东越·未知"
+    },
+    {
+        "MapId": "0x2BC8",
+        "MapName": "东越·迎仙渡"
+    },
+    {
+        "MapId": "0x2BC9",
+        "MapName": "东越·迎仙渡"
+    },
+    {
+        "MapId": "0x2BCA",
+        "MapName": "东越·迎仙渡"
+    },
+    {
+        "MapId": "0x186A5",
+        "MapName": "徐海押镖位面"
+    },
+    {
+        "MapId": "0x186A6",
+        "MapName": "徐海NPC劫多人镖位面"
+    },
+    {
+        "MapId": "0x186A7",
+        "MapName": "徐海劫NPC镖位面"
+    },
+    {
+        "MapId": "0x186A8",
+        "MapName": "徐海日常劫镖位面"
+    },
+    {
+        "MapId": "0x186A9",
+        "MapName": "徐海NPC劫天下镖位面"
+    },
+    {
+        "MapId": "0x186AA",
+        "MapName": "开封NPC劫多人镖位面"
+    },
+    {
+        "MapId": "0x186AB",
+        "MapName": "开封劫NPC镖位面"
+    },
+    {
+        "MapId": "0x186AC",
+        "MapName": "开封日常劫镖位面"
+    },
+    {
+        "MapId": "0x186AD",
+        "MapName": "开封NPC劫天下镖位面"
+    },
+    {
+        "MapId": "0x186AE",
+        "MapName": "杭州NPC劫多人镖位面"
+    },
+    {
+        "MapId": "0x186AF",
+        "MapName": "杭州劫NPC镖位面"
+    },
+    {
+        "MapId": "0x186B0",
+        "MapName": "杭州日常劫镖位面"
+    },
+    {
+        "MapId": "0x186B1",
+        "MapName": "杭州NPC劫天下镖位面"
+    },
+    {
+        "MapId": "0x186B2",
+        "MapName": "东越NPC劫天下镖位面"
+    },
+    {
+        "MapId": "0x186B3",
+        "MapName": "海岛劫镖位面"
+    },
+    {
+        "MapId": "0x186B4",
+        "MapName": "荆湖竞技场"
+    },
+    {
+        "MapId": "0x186B5",
+        "MapName": "杭州竞技场"
+    },
+    {
+        "MapId": "0x186B6",
+        "MapName": "杭州3v3位面"
+    },
+    {
+        "MapId": "0x186B7",
+        "MapName": "杭州3v3赛会位面"
+    },
+    {
+        "MapId": "0x62639",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x6263A",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x4E21",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x4E22",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x4E23",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x2C23",
+        "MapName": "东越·试练"
+    },
+    {
+        "MapId": "0x2C24",
+        "MapName": "徐海·天龙寺"
+    },
+    {
+        "MapId": "0x2C25",
+        "MapName": "徐海·古陶镇"
+    },
+    {
+        "MapId": "0x2C26",
+        "MapName": "徐海·剑绝轩"
+    },
+    {
+        "MapId": "0x2C27",
+        "MapName": "徐海·平阳驿站"
+    },
+    {
+        "MapId": "0x4E29",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x2C29",
+        "MapName": "徐海·神武门"
+    },
+    {
+        "MapId": "0x2C2A",
+        "MapName": "徐海·古陶镇"
+    },
+    {
+        "MapId": "0x2C2B",
+        "MapName": "徐海·万兽庄"
+    },
+    {
+        "MapId": "0x2C2C",
+        "MapName": "徐海·剑绝轩"
+    },
+    {
+        "MapId": "0x2C2D",
+        "MapName": "徐海·剑绝轩"
+    },
+    {
+        "MapId": "0x2C2E",
+        "MapName": "徐海·白鹿野"
+    },
+    {
+        "MapId": "0x2C2F",
+        "MapName": "徐海·藏月湾"
+    },
+    {
+        "MapId": "0x64191",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x64192",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2C32",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x2C33",
+        "MapName": "徐海·飞仙岭"
+    },
+    {
+        "MapId": "0x4E35",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x4E36",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x4E37",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x4E38",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x4E39",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x2C39",
+        "MapName": "徐海·单人神武门"
+    },
+    {
+        "MapId": "0x4E3B",
+        "MapName": "松林"
+    },
+    {
+        "MapId": "0x4E3C",
+        "MapName": "松林问战"
+    },
+    {
+        "MapId": "0x4E3D",
+        "MapName": "松林战旗"
+    },
+    {
+        "MapId": "0x6419E",
+        "MapName": "九华家园位面五"
+    },
+    {
+        "MapId": "0x6419F",
+        "MapName": "九华家园位面六"
+    },
+    {
+        "MapId": "0x641A0",
+        "MapName": "九华家园位面七"
+    },
+    {
+        "MapId": "0x641A1",
+        "MapName": "九华家园位面八"
+    },
+    {
+        "MapId": "0x641A2",
+        "MapName": "九华家园位面九"
+    },
+    {
+        "MapId": "0x641A3",
+        "MapName": "九华家园位面十"
+    },
+    {
+        "MapId": "0x641A4",
+        "MapName": "东越家园位面一"
+    },
+    {
+        "MapId": "0x641A5",
+        "MapName": "东越家园位面二"
+    },
+    {
+        "MapId": "0x641A6",
+        "MapName": "东越家园位面三"
+    },
+    {
+        "MapId": "0x641A7",
+        "MapName": "东越家园位面四"
+    },
+    {
+        "MapId": "0x641A8",
+        "MapName": "东越家园位面五"
+    },
+    {
+        "MapId": "0x641A9",
+        "MapName": "东越家园位面六"
+    },
+    {
+        "MapId": "0x641AA",
+        "MapName": "东越家园位面七"
+    },
+    {
+        "MapId": "0x641AB",
+        "MapName": "东越家园位面八"
+    },
+    {
+        "MapId": "0x641AC",
+        "MapName": "东越家园位面九"
+    },
+    {
+        "MapId": "0x641AD",
+        "MapName": "东越家园位面十"
+    },
+    {
+        "MapId": "0x641AE",
+        "MapName": "荆湖家园位面一"
+    },
+    {
+        "MapId": "0x641AF",
+        "MapName": "荆湖家园位面二"
+    },
+    {
+        "MapId": "0x641B0",
+        "MapName": "荆湖家园位面三"
+    },
+    {
+        "MapId": "0x641B1",
+        "MapName": "荆湖家园位面四"
+    },
+    {
+        "MapId": "0x641B2",
+        "MapName": "荆湖家园位面五"
+    },
+    {
+        "MapId": "0x641B3",
+        "MapName": "荆湖家园位面六"
+    },
+    {
+        "MapId": "0x641B4",
+        "MapName": "荆湖家园位面七"
+    },
+    {
+        "MapId": "0x641B5",
+        "MapName": "荆湖家园位面八"
+    },
+    {
+        "MapId": "0x641B6",
+        "MapName": "荆湖家园位面九"
+    },
+    {
+        "MapId": "0x641B7",
+        "MapName": "荆湖家园位面十"
+    },
+    {
+        "MapId": "0x641C2",
+        "MapName": "巴蜀家园位面一"
+    },
+    {
+        "MapId": "0x641C3",
+        "MapName": "巴蜀家园位面二"
+    },
+    {
+        "MapId": "0x641C4",
+        "MapName": "巴蜀家园位面三"
+    },
+    {
+        "MapId": "0x641C5",
+        "MapName": "巴蜀家园位面四"
+    },
+    {
+        "MapId": "0x641C6",
+        "MapName": "巴蜀家园位面五"
+    },
+    {
+        "MapId": "0x641C7",
+        "MapName": "巴蜀家园位面六"
+    },
+    {
+        "MapId": "0x641C8",
+        "MapName": "巴蜀家园位面七"
+    },
+    {
+        "MapId": "0x641C9",
+        "MapName": "巴蜀家园位面八"
+    },
+    {
+        "MapId": "0x641CA",
+        "MapName": "巴蜀家园位面九"
+    },
+    {
+        "MapId": "0x641CB",
+        "MapName": "巴蜀家园位面十"
+    },
+    {
+        "MapId": "0x641CC",
+        "MapName": "云滇家园位面一"
+    },
+    {
+        "MapId": "0x641CD",
+        "MapName": "云滇家园位面二"
+    },
+    {
+        "MapId": "0x641CE",
+        "MapName": "云滇家园位面三"
+    },
+    {
+        "MapId": "0x641CF",
+        "MapName": "云滇家园位面四"
+    },
+    {
+        "MapId": "0x641D0",
+        "MapName": "云滇家园位面五"
+    },
+    {
+        "MapId": "0x641D1",
+        "MapName": "云滇家园位面六"
+    },
+    {
+        "MapId": "0x641D2",
+        "MapName": "云滇家园位面七"
+    },
+    {
+        "MapId": "0x641D3",
+        "MapName": "云滇家园位面八"
+    },
+    {
+        "MapId": "0x641D4",
+        "MapName": "云滇家园位面九"
+    },
+    {
+        "MapId": "0x641D5",
+        "MapName": "云滇家园位面十"
+    },
+    {
+        "MapId": "0x641D6",
+        "MapName": "襄州家园位面一"
+    },
+    {
+        "MapId": "0x641D7",
+        "MapName": "襄州家园位面二"
+    },
+    {
+        "MapId": "0x641D8",
+        "MapName": "襄州家园位面三"
+    },
+    {
+        "MapId": "0x641D9",
+        "MapName": "襄州家园位面四"
+    },
+    {
+        "MapId": "0x641DA",
+        "MapName": "襄州家园位面五"
+    },
+    {
+        "MapId": "0x641DB",
+        "MapName": "襄州家园位面六"
+    },
+    {
+        "MapId": "0x641DC",
+        "MapName": "襄州家园位面七"
+    },
+    {
+        "MapId": "0x641DD",
+        "MapName": "襄州家园位面八"
+    },
+    {
+        "MapId": "0x641DE",
+        "MapName": "襄州家园位面九"
+    },
+    {
+        "MapId": "0x2C7E",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x50911",
+        "MapName": "2020端午巴蜀翠海"
+    },
+    {
+        "MapId": "0x50913",
+        "MapName": "黑豹与少女"
+    },
+    {
+        "MapId": "0x50914",
+        "MapName": "黑豹与少女"
+    },
+    {
+        "MapId": "0x50915",
+        "MapName": "游泳比赛"
+    },
+    {
+        "MapId": "0x50916",
+        "MapName": "海岛戏水"
+    },
+    {
+        "MapId": "0x50917",
+        "MapName": "滑梯游戏"
+    },
+    {
+        "MapId": "0x50919",
+        "MapName": "黑豹日常"
+    },
+    {
+        "MapId": "0x5091A",
+        "MapName": "春节寻龙记一"
+    },
+    {
+        "MapId": "0x5091B",
+        "MapName": "春节寻龙记三"
+    },
+    {
+        "MapId": "0x5091C",
+        "MapName": "春节寻龙记五"
+    },
+    {
+        "MapId": "0x5091D",
+        "MapName": "春节寻龙记六"
+    },
+    {
+        "MapId": "0x5091E",
+        "MapName": "春节寻龙记八"
+    },
+    {
+        "MapId": "0x641F5",
+        "MapName": "杭州家园位面二"
+    },
+    {
+        "MapId": "0x50920",
+        "MapName": "仲秋宴席"
+    },
+    {
+        "MapId": "0x50921",
+        "MapName": "春节寻龙记四"
+    },
+    {
+        "MapId": "0x50922",
+        "MapName": "2021春节八荒之心"
+    },
+    {
+        "MapId": "0x50923",
+        "MapName": "2021元宵漠上花灯"
+    },
+    {
+        "MapId": "0x50924",
+        "MapName": "元宵吃汤圆"
+    },
+    {
+        "MapId": "0x50925",
+        "MapName": "沧浪岛"
+    },
+    {
+        "MapId": "0x641FC",
+        "MapName": "杭州家园位面九"
+    },
+    {
+        "MapId": "0x50927",
+        "MapName": "少年游-旧梦换雪衣"
+    },
+    {
+        "MapId": "0x50928",
+        "MapName": "少年游-旧梦换雪衣"
+    },
+    {
+        "MapId": "0x50929",
+        "MapName": "少年游-绝智与玄同"
+    },
+    {
+        "MapId": "0x5092A",
+        "MapName": "少年游-旧梦换雪衣"
+    },
+    {
+        "MapId": "0x5092B",
+        "MapName": "少年游-绝智与玄同"
+    },
+    {
+        "MapId": "0x5092C",
+        "MapName": "月光宝盒联动预热"
+    },
+    {
+        "MapId": "0x64203",
+        "MapName": "江南家园位面六"
+    },
+    {
+        "MapId": "0x64204",
+        "MapName": "江南家园位面七"
+    },
+    {
+        "MapId": "0x64205",
+        "MapName": "江南家园位面八"
+    },
+    {
+        "MapId": "0x64206",
+        "MapName": "江南家园位面九"
+    },
+    {
+        "MapId": "0x64207",
+        "MapName": "江南家园位面十"
+    },
+    {
+        "MapId": "0x64208",
+        "MapName": "开封家园位面一"
+    },
+    {
+        "MapId": "0x64209",
+        "MapName": "开封家园位面二"
+    },
+    {
+        "MapId": "0x6420A",
+        "MapName": "开封家园位面三"
+    },
+    {
+        "MapId": "0x6420B",
+        "MapName": "开封家园位面四"
+    },
+    {
+        "MapId": "0x6420C",
+        "MapName": "开封家园位面五"
+    },
+    {
+        "MapId": "0x6420D",
+        "MapName": "开封家园位面六"
+    },
+    {
+        "MapId": "0x6420E",
+        "MapName": "开封家园位面七"
+    },
+    {
+        "MapId": "0x6420F",
+        "MapName": "开封家园位面八"
+    },
+    {
+        "MapId": "0x64210",
+        "MapName": "开封家园位面九"
+    },
+    {
+        "MapId": "0x64211",
+        "MapName": "开封家园位面十"
+    },
+    {
+        "MapId": "0x4ED5",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x3D091",
+        "MapName": "九华·盟会对抗"
+    },
+    {
+        "MapId": "0x3D092",
+        "MapName": "东越·盟会对抗"
+    },
+    {
+        "MapId": "0x3D093",
+        "MapName": "荆湖·盟会对抗"
+    },
+    {
+        "MapId": "0x3D094",
+        "MapName": "燕云·盟会对抗"
+    },
+    {
+        "MapId": "0x3D095",
+        "MapName": "巴蜀·盟会对抗"
+    },
+    {
+        "MapId": "0x3D096",
+        "MapName": "云滇·盟会对抗"
+    },
+    {
+        "MapId": "0x3D097",
+        "MapName": "襄州·盟会对抗"
+    },
+    {
+        "MapId": "0x3D099",
+        "MapName": "秦川·盟会对抗"
+    },
+    {
+        "MapId": "0x3D09A",
+        "MapName": "杭州·盟会对抗"
+    },
+    {
+        "MapId": "0x3D09B",
+        "MapName": "江南·盟会对抗"
+    },
+    {
+        "MapId": "0x3D09C",
+        "MapName": "开封·盟会对抗"
+    },
+    {
+        "MapId": "0x2CE8",
+        "MapName": "徐海·神武门"
+    },
+    {
+        "MapId": "0x2CE9",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x3D09F",
+        "MapName": "海河洲·帮派"
+    },
+    {
+        "MapId": "0x2CEB",
+        "MapName": "徐海·试练"
+    },
+    {
+        "MapId": "0x2CEC",
+        "MapName": "开封·朱仙桥"
+    },
+    {
+        "MapId": "0x3D0A2",
+        "MapName": "琅嬛福地第一岛"
+    },
+    {
+        "MapId": "0x3D0A3",
+        "MapName": "琅嬛福地第二岛"
+    },
+    {
+        "MapId": "0x3D0A4",
+        "MapName": "侠客岛"
+    },
+    {
+        "MapId": "0x3D0A5",
+        "MapName": "琅嬛福地第三岛"
+    },
+    {
+        "MapId": "0x3D0A6",
+        "MapName": "琅嬛福地第四岛"
+    },
+    {
+        "MapId": "0x3D0A7",
+        "MapName": "琅嬛福地第五岛"
+    },
+    {
+        "MapId": "0x3D0A8",
+        "MapName": "琅嬛福地第六岛"
+    },
+    {
+        "MapId": "0x3D0A9",
+        "MapName": "青铜辩真"
+    },
+    {
+        "MapId": "0x3D0AA",
+        "MapName": "琅嬛福地第二岛"
+    },
+    {
+        "MapId": "0x3D0AB",
+        "MapName": "琅嬛福地第三岛"
+    },
+    {
+        "MapId": "0x3D0AC",
+        "MapName": "琅嬛福地第四岛"
+    },
+    {
+        "MapId": "0x3D0AD",
+        "MapName": "琅嬛福地第五岛"
+    },
+    {
+        "MapId": "0x3D0AE",
+        "MapName": "琅嬛福地第六岛"
+    },
+    {
+        "MapId": "0x3D0AF",
+        "MapName": "藏宝图事件1"
+    },
+    {
+        "MapId": "0x3D0B0",
+        "MapName": "藏宝图事件1"
+    },
+    {
+        "MapId": "0x3D0B1",
+        "MapName": "藏宝图事件1"
+    },
+    {
+        "MapId": "0x3D0B2",
+        "MapName": "藏宝图事件1"
+    },
+    {
+        "MapId": "0x3D0B3",
+        "MapName": "藏宝图事件1"
+    },
+    {
+        "MapId": "0x2CFF",
+        "MapName": "开封·猎户抓宠"
+    },
+    {
+        "MapId": "0x2D00",
+        "MapName": "开封·单人镇天牢"
+    },
+    {
+        "MapId": "0x33451",
+        "MapName": "九华·日常挖宝位面"
+    },
+    {
+        "MapId": "0x33452",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x33453",
+        "MapName": "徐海·古陶镇"
+    },
+    {
+        "MapId": "0x62E09",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x62E0A",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x2D1E",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D1F",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D20",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x3ABB",
+        "MapName": "玄机战场"
+    },
+    {
+        "MapId": "0x2D22",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D23",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D24",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D25",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D26",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x2D27",
+        "MapName": "开封四海镖位面"
+    },
+    {
+        "MapId": "0x2D28",
+        "MapName": "少年游·一念误平生"
+    },
+    {
+        "MapId": "0x2D29",
+        "MapName": "普通·开封会八荒"
+    },
+    {
+        "MapId": "0x2D2A",
+        "MapName": "挑战·开封会八荒"
+    },
+    {
+        "MapId": "0x2D2B",
+        "MapName": "少年游·明月似故人"
+    },
+    {
+        "MapId": "0x6428E",
+        "MapName": "杭州·雷峰塔单人"
+    },
+    {
+        "MapId": "0x6428F",
+        "MapName": "秦川·沉剑池双人"
+    },
+    {
+        "MapId": "0x64290",
+        "MapName": "江南·四明书院单人长见闻"
+    },
+    {
+        "MapId": "0x64291",
+        "MapName": "杭州·西湖双人长见闻"
+    },
+    {
+        "MapId": "0x64292",
+        "MapName": "东越·万蝶坪双人长见闻"
+    },
+    {
+        "MapId": "0x2D32",
+        "MapName": "金兰任务一"
+    },
+    {
+        "MapId": "0x64961",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x64962",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x64296",
+        "MapName": "同心引导任务·红尘屿"
+    },
+    {
+        "MapId": "0x64297",
+        "MapName": "废弃"
+    },
+    {
+        "MapId": "0x64298",
+        "MapName": "废弃"
+    },
+    {
+        "MapId": "0x4F39",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x6429A",
+        "MapName": "杭州·一醉轩"
+    },
+    {
+        "MapId": "0x6429B",
+        "MapName": "开封·一醉轩"
+    },
+    {
+        "MapId": "0x6429C",
+        "MapName": "开封·酒楼"
+    },
+    {
+        "MapId": "0x6429D",
+        "MapName": "江南·万梅山庄"
+    },
+    {
+        "MapId": "0x6429E",
+        "MapName": "开封·一醉轩"
+    },
+    {
+        "MapId": "0x6429F",
+        "MapName": "开封·天衣阁"
+    },
+    {
+        "MapId": "0x642A0",
+        "MapName": "开封·酒楼"
+    },
+    {
+        "MapId": "0x642A1",
+        "MapName": "陆小凤开封一"
+    },
+    {
+        "MapId": "0x642A2",
+        "MapName": "陆小凤开封二"
+    },
+    {
+        "MapId": "0x642A3",
+        "MapName": "陆小凤开封三"
+    },
+    {
+        "MapId": "0x7F5E4",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x2D50",
+        "MapName": "普通·决战嘲天宫"
+    },
+    {
+        "MapId": "0x2D51",
+        "MapName": "挑战·决战嘲天宫"
+    },
+    {
+        "MapId": "0x2D52",
+        "MapName": "普通·东海会四盟"
+    },
+    {
+        "MapId": "0x2D53",
+        "MapName": "挑战·东海会四盟"
+    },
+    {
+        "MapId": "0x2D54",
+        "MapName": "普通·雨夜破天牢"
+    },
+    {
+        "MapId": "0x2D55",
+        "MapName": "挑战·雨夜破天牢"
+    },
+    {
+        "MapId": "0x2D56",
+        "MapName": "普通·雨夜破天牢"
+    },
+    {
+        "MapId": "0x2D57",
+        "MapName": "挑战·雨夜破天牢"
+    },
+    {
+        "MapId": "0x2D58",
+        "MapName": "普通·莲华镇心魔"
+    },
+    {
+        "MapId": "0x2D59",
+        "MapName": "挑战·莲华镇心魔"
+    },
+    {
+        "MapId": "0x2D5A",
+        "MapName": "开封·演武区"
+    },
+    {
+        "MapId": "0x2D5B",
+        "MapName": "普通·从龙话本"
+    },
+    {
+        "MapId": "0x2D5C",
+        "MapName": "挑战·从龙话本"
+    },
+    {
+        "MapId": "0x2D5D",
+        "MapName": "普通·血夜探幽城"
+    },
+    {
+        "MapId": "0x2D5E",
+        "MapName": "挑战·血夜探幽城"
+    },
+    {
+        "MapId": "0x2D61",
+        "MapName": "普通-怒挑浪客营话本"
+    },
+    {
+        "MapId": "0x2D62",
+        "MapName": "挑战-怒挑浪客营话本"
+    },
+    {
+        "MapId": "0x2D64",
+        "MapName": "普通-衔命绝智轩话本"
+    },
+    {
+        "MapId": "0x2D65",
+        "MapName": "挑战-衔命绝智轩话本"
+    },
+    {
+        "MapId": "0x2D66",
+        "MapName": "普通-魁山战迷魂话本"
+    },
+    {
+        "MapId": "0x2D67",
+        "MapName": "挑战-魁山战迷魂话本"
+    },
+    {
+        "MapId": "0x2D68",
+        "MapName": "普通-浪子探万梅"
+    },
+    {
+        "MapId": "0x2D69",
+        "MapName": "挑战-浪子探万梅"
+    },
+    {
+        "MapId": "0x2D6A",
+        "MapName": "普通-妙月笑红尘"
+    },
+    {
+        "MapId": "0x2D6B",
+        "MapName": "挑战-妙月笑红尘"
+    },
+    {
+        "MapId": "0x2D6C",
+        "MapName": "普通-天垣见长生"
+    },
+    {
+        "MapId": "0x2D6D",
+        "MapName": "挑战-天垣见长生"
+    },
+    {
+        "MapId": "0x4F9D",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0xC3691",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0xC3692",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0x2711",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x2712",
+        "MapName": "东越"
+    },
+    {
+        "MapId": "0x2713",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x2714",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0x2715",
+        "MapName": "巴蜀"
+    },
+    {
+        "MapId": "0x2716",
+        "MapName": "云滇"
+    },
+    {
+        "MapId": "0x2717",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x2718",
+        "MapName": "陆小凤"
+    },
+    {
+        "MapId": "0x2719",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x271A",
+        "MapName": "杭州"
+    },
+    {
+        "MapId": "0x271B",
+        "MapName": "江南"
+    },
+    {
+        "MapId": "0x271C",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x271D",
+        "MapName": "徐海"
+    },
+    {
+        "MapId": "0x271F",
+        "MapName": "燕云·修罗城"
+    },
+    {
+        "MapId": "0x2720",
+        "MapName": "徐海之战"
+    },
+    {
+        "MapId": "0x2722",
+        "MapName": "莲华之境"
+    },
+    {
+        "MapId": "0x2723",
+        "MapName": "桃源"
+    },
+    {
+        "MapId": "0x34BE",
+        "MapName": "荆湖主线-盘角曲四"
+    },
+    {
+        "MapId": "0x34BF",
+        "MapName": "荆湖主线-义庄惊魂"
+    },
+    {
+        "MapId": "0x34C0",
+        "MapName": "荆湖主线-智者千虑"
+    },
+    {
+        "MapId": "0x34C1",
+        "MapName": "荆湖主线-青龙不死"
+    },
+    {
+        "MapId": "0x34C2",
+        "MapName": "血衣法·青娥娇红粉"
+    },
+    {
+        "MapId": "0x34C3",
+        "MapName": "血衣法·孤影照落花 "
+    },
+    {
+        "MapId": "0x34C4",
+        "MapName": "血衣法·愿得一人心"
+    },
+    {
+        "MapId": "0x34C5",
+        "MapName": "血衣法·白首不相离"
+    },
+    {
+        "MapId": "0x34C6",
+        "MapName": "荆湖主线2-龙战于野"
+    },
+    {
+        "MapId": "0x34C7",
+        "MapName": "荆湖主线2-公共位面"
+    },
+    {
+        "MapId": "0x34C8",
+        "MapName": "荆湖主线2-飞蛾扑火"
+    },
+    {
+        "MapId": "0x34C9",
+        "MapName": "荆湖主线2-心随影动"
+    },
+    {
+        "MapId": "0x34CA",
+        "MapName": "荆湖主线2-黄泉之路"
+    },
+    {
+        "MapId": "0x34CB",
+        "MapName": "荆湖主线2-龙堂之困"
+    },
+    {
+        "MapId": "0x2732",
+        "MapName": "少林"
+    },
+    {
+        "MapId": "0x5001",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x34CE",
+        "MapName": "荆湖主线2-血海之劫"
+    },
+    {
+        "MapId": "0x34CF",
+        "MapName": "荆湖主线2-穷途末路"
+    },
+    {
+        "MapId": "0x2736",
+        "MapName": "幽夜城"
+    },
+    {
+        "MapId": "0x2737",
+        "MapName": "云城雪衣"
+    },
+    {
+        "MapId": "0x34D2",
+        "MapName": "少年游·天地赌一掷"
+    },
+    {
+        "MapId": "0x2739",
+        "MapName": "九华·云笈水榭"
+    },
+    {
+        "MapId": "0x273A",
+        "MapName": "九华·竹林"
+    },
+    {
+        "MapId": "0x273B",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x273C",
+        "MapName": "九华·化清寺"
+    },
+    {
+        "MapId": "0x273D",
+        "MapName": "九华·化清寺"
+    },
+    {
+        "MapId": "0x273E",
+        "MapName": "云上之城"
+    },
+    {
+        "MapId": "0x273F",
+        "MapName": "九华·芳华谷"
+    },
+    {
+        "MapId": "0x2740",
+        "MapName": "云上之城"
+    },
+    {
+        "MapId": "0x2741",
+        "MapName": "云上之城"
+    },
+    {
+        "MapId": "0x2742",
+        "MapName": "选角关·报错啥的都别删"
+    },
+    {
+        "MapId": "0x2743",
+        "MapName": "燕云"
+    },
+    {
+        "MapId": "0x2744",
+        "MapName": "东海"
+    },
+    {
+        "MapId": "0x635D9",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x5014",
+        "MapName": "洗魂之渊"
+    },
+    {
+        "MapId": "0x5015",
+        "MapName": "洗魂之渊"
+    },
+    {
+        "MapId": "0x2748",
+        "MapName": "江洋港"
+    },
+    {
+        "MapId": "0x2749",
+        "MapName": "泉州港"
+    },
+    {
+        "MapId": "0x34E4",
+        "MapName": "襄州主线-剑拔弩张"
+    },
+    {
+        "MapId": "0x34E5",
+        "MapName": "襄州主线-诡幻疑踪"
+    },
+    {
+        "MapId": "0x34E6",
+        "MapName": "襄州主线-路见不平"
+    },
+    {
+        "MapId": "0x34E7",
+        "MapName": "襄州主线-以黑为白"
+    },
+    {
+        "MapId": "0x34E8",
+        "MapName": "襄州主线-谄上傲下"
+    },
+    {
+        "MapId": "0x34E9",
+        "MapName": "襄州主线-李代桃僵"
+    },
+    {
+        "MapId": "0x34EA",
+        "MapName": "襄州主线-天下棋局"
+    },
+    {
+        "MapId": "0x34EB",
+        "MapName": "襄州主线-夜尽孤鸿"
+    },
+    {
+        "MapId": "0x34EC",
+        "MapName": "襄州主线-巡游"
+    },
+    {
+        "MapId": "0x34ED",
+        "MapName": "襄州主线-真相大白"
+    },
+    {
+        "MapId": "0x34EE",
+        "MapName": "移花·移花之礼"
+    },
+    {
+        "MapId": "0x34EF",
+        "MapName": "移花·画意逍遥"
+    },
+    {
+        "MapId": "0x34F0",
+        "MapName": "移花·诗心常在"
+    },
+    {
+        "MapId": "0x34F1",
+        "MapName": "移花·远人思归"
+    },
+    {
+        "MapId": "0x34F2",
+        "MapName": "移花·醉来移花"
+    },
+    {
+        "MapId": "0x34F3",
+        "MapName": "移花·玉山阆风"
+    },
+    {
+        "MapId": "0x34F4",
+        "MapName": "移花·聆音辨世"
+    },
+    {
+        "MapId": "0xB71B0",
+        "MapName": "天波府精英层"
+    },
+    {
+        "MapId": "0x275C",
+        "MapName": "四盟旧弈"
+    },
+    {
+        "MapId": "0x34F7",
+        "MapName": "移花·琨玉秋霜"
+    },
+    {
+        "MapId": "0x275E",
+        "MapName": "四盟旧弈-PVE试炼"
+    },
+    {
+        "MapId": "0x275F",
+        "MapName": "四盟旧弈-PVP挑战"
+    },
+    {
+        "MapId": "0x2760",
+        "MapName": "潭下之窟"
+    },
+    {
+        "MapId": "0x34FB",
+        "MapName": "意凌云·海阔任天空"
+    },
+    {
+        "MapId": "0x34FD",
+        "MapName": "移花·转职演武"
+    },
+    {
+        "MapId": "0x34FE",
+        "MapName": "移花·转职任务"
+    },
+    {
+        "MapId": "0x34FF",
+        "MapName": "移花·转职任务"
+    },
+    {
+        "MapId": "0x3500",
+        "MapName": "移花·转职任务"
+    },
+    {
+        "MapId": "0x3502",
+        "MapName": "开封主线-觥筹交错"
+    },
+    {
+        "MapId": "0x3503",
+        "MapName": "杭州主线-孔雀真翎"
+    },
+    {
+        "MapId": "0x3504",
+        "MapName": "东越主线-以一敌百"
+    },
+    {
+        "MapId": "0x276B",
+        "MapName": "长生剑派"
+    },
+    {
+        "MapId": "0x3506",
+        "MapName": "东越主线-星落秋风"
+    },
+    {
+        "MapId": "0x3507",
+        "MapName": "襄州主线-大驱影阵"
+    },
+    {
+        "MapId": "0x3508",
+        "MapName": "襄州主线-天地为子"
+    },
+    {
+        "MapId": "0x3509",
+        "MapName": "燕云主线-流离转徙"
+    },
+    {
+        "MapId": "0x350A",
+        "MapName": "巴蜀主线-剑神一战"
+    },
+    {
+        "MapId": "0x350B",
+        "MapName": "巴蜀主线-孤鸿声断"
+    },
+    {
+        "MapId": "0x350C",
+        "MapName": "巴蜀主线-莫问前尘"
+    },
+    {
+        "MapId": "0x2779",
+        "MapName": "九华·燕来镇"
+    },
+    {
+        "MapId": "0x277A",
+        "MapName": "九华·紫阳观"
+    },
+    {
+        "MapId": "0x277B",
+        "MapName": "九华·得意坊"
+    },
+    {
+        "MapId": "0x277C",
+        "MapName": "九华·芳华谷"
+    },
+    {
+        "MapId": "0x277D",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x277E",
+        "MapName": "九华·孔雀山庄"
+    },
+    {
+        "MapId": "0x277F",
+        "MapName": "九华·锦燕林"
+    },
+    {
+        "MapId": "0x2780",
+        "MapName": "九华·鹧鸪岭"
+    },
+    {
+        "MapId": "0x2781",
+        "MapName": "九华·嘉荫镇"
+    },
+    {
+        "MapId": "0x571D",
+        "MapName": "石林域"
+    },
+    {
+        "MapId": "0x571E",
+        "MapName": "石林域"
+    },
+    {
+        "MapId": "0x571F",
+        "MapName": "石林域"
+    },
+    {
+        "MapId": "0x5720",
+        "MapName": "石林域"
+    },
+    {
+        "MapId": "0x2786",
+        "MapName": "九华·押镖"
+    },
+    {
+        "MapId": "0x2787",
+        "MapName": "九华·缉拿"
+    },
+    {
+        "MapId": "0x2788",
+        "MapName": "九华劫NPC初级镖位面1"
+    },
+    {
+        "MapId": "0x2789",
+        "MapName": "九华单人初级押镖NPC劫镖1"
+    },
+    {
+        "MapId": "0x278A",
+        "MapName": "九华多人初级押镖NPC劫镖1"
+    },
+    {
+        "MapId": "0x278B",
+        "MapName": "九华劫NPC中级镖位面1"
+    },
+    {
+        "MapId": "0x5727",
+        "MapName": "天火域"
+    },
+    {
+        "MapId": "0x5728",
+        "MapName": "天火域"
+    },
+    {
+        "MapId": "0x5729",
+        "MapName": "天火域"
+    },
+    {
+        "MapId": "0x572A",
+        "MapName": "天火域"
+    },
+    {
+        "MapId": "0x2790",
+        "MapName": "傀儡·杀场（废弃）"
+    },
+    {
+        "MapId": "0x2792",
+        "MapName": "天命风流-密林巧遇九华"
+    },
+    {
+        "MapId": "0x2793",
+        "MapName": "天命风流-孤燕难飞九华"
+    },
+    {
+        "MapId": "0x2794",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x2795",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x5731",
+        "MapName": "盐场域"
+    },
+    {
+        "MapId": "0x5065",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x5733",
+        "MapName": "盐场域"
+    },
+    {
+        "MapId": "0x5734",
+        "MapName": "盐场域"
+    },
+    {
+        "MapId": "0x279A",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x279B",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x279C",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x573B",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x573C",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x573D",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x573E",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x5745",
+        "MapName": "海涡域"
+    },
+    {
+        "MapId": "0x2E7C",
+        "MapName": "荆湖·集贤楼"
+    },
+    {
+        "MapId": "0x2E7D",
+        "MapName": "荆湖·龙头阁"
+    },
+    {
+        "MapId": "0x2E7E",
+        "MapName": "荆湖·绿竹楼"
+    },
+    {
+        "MapId": "0x2E7F",
+        "MapName": "荆湖·龙口台"
+    },
+    {
+        "MapId": "0x2E80",
+        "MapName": "荆湖·丐祖祠"
+    },
+    {
+        "MapId": "0x2E81",
+        "MapName": "荆湖·长老堂"
+    },
+    {
+        "MapId": "0x27B5",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x2E83",
+        "MapName": "荆湖·丐帮"
+    },
+    {
+        "MapId": "0x27B7",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x27B8",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x27B9",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x27BA",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x27BB",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x27BC",
+        "MapName": "心剑战境"
+    },
+    {
+        "MapId": "0x2E90",
+        "MapName": "荆湖"
+    },
+    {
+        "MapId": "0x3A981",
+        "MapName": "六一·童真年代"
+    },
+    {
+        "MapId": "0x3A982",
+        "MapName": "端午·粽叶飘香"
+    },
+    {
+        "MapId": "0x3A983",
+        "MapName": "七夕·金风玉露"
+    },
+    {
+        "MapId": "0x3A984",
+        "MapName": "七夕·金风玉露"
+    },
+    {
+        "MapId": "0x3A985",
+        "MapName": "浮云遮月·五"
+    },
+    {
+        "MapId": "0x3A986",
+        "MapName": "仲秋·月照天涯"
+    },
+    {
+        "MapId": "0x3A987",
+        "MapName": "仲秋·月照天涯"
+    },
+    {
+        "MapId": "0x3A988",
+        "MapName": "瑞雪·兆丰年"
+    },
+    {
+        "MapId": "0x3A989",
+        "MapName": "花朝·年年岁岁"
+    },
+    {
+        "MapId": "0x27D6",
+        "MapName": "红尘屿"
+    },
+    {
+        "MapId": "0x3A98B",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x3A98C",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x3A98D",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x3A98E",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x3A98F",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x3A990",
+        "MapName": "陌上·江湖有故人"
+    },
+    {
+        "MapId": "0x27DD",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x27DE",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x3A993",
+        "MapName": "七一·归家浪子心"
+    },
+    {
+        "MapId": "0x3A994",
+        "MapName": "旧韵谱新声"
+    },
+    {
+        "MapId": "0x3A995",
+        "MapName": "七夕·天下有情"
+    },
+    {
+        "MapId": "0x3A996",
+        "MapName": "七夕·天下有情"
+    },
+    {
+        "MapId": "0x3A997",
+        "MapName": "七夕·天下有情"
+    },
+    {
+        "MapId": "0x27E4",
+        "MapName": "海政司地图任务01"
+    },
+    {
+        "MapId": "0x27E5",
+        "MapName": "海政司地图任务02"
+    },
+    {
+        "MapId": "0x27E6",
+        "MapName": "海政司地图任务征集新兵"
+    },
+    {
+        "MapId": "0x27E7",
+        "MapName": "绝智轩地图任务救人"
+    },
+    {
+        "MapId": "0x27E8",
+        "MapName": "少年游·以身试血衣"
+    },
+    {
+        "MapId": "0x3A99D",
+        "MapName": "仲秋·邀月临风"
+    },
+    {
+        "MapId": "0x3A99E",
+        "MapName": "仲秋·邀月临风"
+    },
+    {
+        "MapId": "0x3A99F",
+        "MapName": "仲秋·邀月临风"
+    },
+    {
+        "MapId": "0x27EC",
+        "MapName": "执念之境-紫禁之巅"
+    },
+    {
+        "MapId": "0x3A9A1",
+        "MapName": "仲秋·邀月临风"
+    },
+    {
+        "MapId": "0x3588",
+        "MapName": "襄州·飞升岭"
+    },
+    {
+        "MapId": "0x3A9A3",
+        "MapName": "仲秋·邀月临风"
+    },
+    {
+        "MapId": "0x358A",
+        "MapName": "襄州·凌云道"
+    },
+    {
+        "MapId": "0x3A9A5",
+        "MapName": "仲秋·明月心"
+    },
+    {
+        "MapId": "0x3A9A6",
+        "MapName": ""
+    },
+    {
+        "MapId": "0x3A9A7",
+        "MapName": "红叶·青龙有意"
+    },
+    {
+        "MapId": "0x3A9A8",
+        "MapName": "红叶·青龙有意"
+    },
+    {
+        "MapId": "0x3A9A9",
+        "MapName": "红叶·青龙有意"
+    },
+    {
+        "MapId": "0x3A9AA",
+        "MapName": "开封·结同心"
+    },
+    {
+        "MapId": "0x3A9AB",
+        "MapName": "红叶·青龙有意"
+    },
+    {
+        "MapId": "0x3A9AC",
+        "MapName": "辨真假"
+    },
+    {
+        "MapId": "0x3A9AD",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9AE",
+        "MapName": "河清海晏"
+    },
+    {
+        "MapId": "0x50C9",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x3A9B0",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9B1",
+        "MapName": "春节寻龙记九"
+    },
+    {
+        "MapId": "0x3A9B2",
+        "MapName": "春节寻龙记七"
+    },
+    {
+        "MapId": "0x3A9B3",
+        "MapName": "河清海晏"
+    },
+    {
+        "MapId": "0x3A9B4",
+        "MapName": "河清海晏"
+    },
+    {
+        "MapId": "0x3A9B5",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9B6",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9B7",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9B8",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9B9",
+        "MapName": "非常简单的数独"
+    },
+    {
+        "MapId": "0x3A9BA",
+        "MapName": "狐妖·等梦回还"
+    },
+    {
+        "MapId": "0x3A9BB",
+        "MapName": "陌上·以心证道"
+    },
+    {
+        "MapId": "0x3A9BC",
+        "MapName": "陌上·以心证道"
+    },
+    {
+        "MapId": "0x3A9BD",
+        "MapName": "陌上·以心证道"
+    },
+    {
+        "MapId": "0x3A9BE",
+        "MapName": "陌上·以心证道"
+    },
+    {
+        "MapId": "0x3A9BF",
+        "MapName": "陌上·打雪仗"
+    },
+    {
+        "MapId": "0x50DC",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x50DD",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x50DE",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x50DF",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x50E0",
+        "MapName": "天冕域"
+    },
+    {
+        "MapId": "0x3A9C7",
+        "MapName": "仲秋"
+    },
+    {
+        "MapId": "0x3A9C8",
+        "MapName": "仲秋"
+    },
+    {
+        "MapId": "0x35B6",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x35B7",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x35B8",
+        "MapName": "襄州"
+    },
+    {
+        "MapId": "0x27101",
+        "MapName": "2020冬至心如昼"
+    },
+    {
+        "MapId": "0x27102",
+        "MapName": "少年游·当时已惘然"
+    },
+    {
+        "MapId": "0x27103",
+        "MapName": "浮云遮月·四"
+    },
+    {
+        "MapId": "0x189CB",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x3A9E5",
+        "MapName": "星湖访双刃"
+    },
+    {
+        "MapId": "0x3A9E6",
+        "MapName": "劫后兄弟聚"
+    },
+    {
+        "MapId": "0x3A9E7",
+        "MapName": "春节寻龙记九"
+    },
+    {
+        "MapId": "0x3A9E8",
+        "MapName": "冰雪暖归程"
+    },
+    {
+        "MapId": "0x3A9E9",
+        "MapName": "焚香祈福运"
+    },
+    {
+        "MapId": "0x3A9EA",
+        "MapName": "嘲天宫"
+    },
+    {
+        "MapId": "0x3A9EB",
+        "MapName": "吟风·琉璃焰"
+    },
+    {
+        "MapId": "0x3A9EC",
+        "MapName": "吟风·琉璃焰"
+    },
+    {
+        "MapId": "0x3A9ED",
+        "MapName": "吟风·琉璃焰"
+    },
+    {
+        "MapId": "0x3A9EE",
+        "MapName": "吟风·琉璃焰"
+    },
+    {
+        "MapId": "0x3A9EF",
+        "MapName": "万贯天下"
+    },
+    {
+        "MapId": "0x3A9F0",
+        "MapName": "生死一念"
+    },
+    {
+        "MapId": "0x3A9F1",
+        "MapName": "玉兔·寻真"
+    },
+    {
+        "MapId": "0x3A9F2",
+        "MapName": "我意江湖"
+    },
+    {
+        "MapId": "0x3A9F3",
+        "MapName": "春节寻龙记二"
+    },
+    {
+        "MapId": "0x3A9F4",
+        "MapName": "2018七夕苏夜来潇道长（开封）"
+    },
+    {
+        "MapId": "0x3A9F5",
+        "MapName": "2018七夕慕情冰棺（秦川）"
+    },
+    {
+        "MapId": "0x3A9F6",
+        "MapName": "2018七夕蓝铮醉舞"
+    },
+    {
+        "MapId": "0x3A9F7",
+        "MapName": "2018七夕月下吹笛"
+    },
+    {
+        "MapId": "0x3A9F8",
+        "MapName": "2018七夕泡泡鱼"
+    },
+    {
+        "MapId": "0x3A9F9",
+        "MapName": "2018仲秋同来自是同归去"
+    },
+    {
+        "MapId": "0x3A9FA",
+        "MapName": "2018仲秋碧海青天夜夜心一"
+    },
+    {
+        "MapId": "0x3A9FB",
+        "MapName": "2018仲秋碧海青天夜夜心二"
+    },
+    {
+        "MapId": "0x63DA9",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x63DAA",
+        "MapName": "秦川"
+    },
+    {
+        "MapId": "0x3A9FE",
+        "MapName": "彩云追月"
+    },
+    {
+        "MapId": "0x3A9FF",
+        "MapName": "红包之试"
+    },
+    {
+        "MapId": "0x3AA00",
+        "MapName": "滚雪球"
+    },
+    {
+        "MapId": "0x3AA01",
+        "MapName": "说书人"
+    },
+    {
+        "MapId": "0x3AA02",
+        "MapName": "说书人"
+    },
+    {
+        "MapId": "0x3AA03",
+        "MapName": "游龙戏凤"
+    },
+    {
+        "MapId": "0x3AA04",
+        "MapName": "四郎探母"
+    },
+    {
+        "MapId": "0x35EB",
+        "MapName": "徐海主线-调虎离山"
+    },
+    {
+        "MapId": "0x35EC",
+        "MapName": "徐海主线-琵琶无情"
+    },
+    {
+        "MapId": "0x35ED",
+        "MapName": "徐海主线-长野拂雪"
+    },
+    {
+        "MapId": "0x35EE",
+        "MapName": "徐海主线-孤雁难鸣"
+    },
+    {
+        "MapId": "0x35EF",
+        "MapName": "徐海主线-羊入虎口"
+    },
+    {
+        "MapId": "0x35F0",
+        "MapName": "徐海主线-铁狱铜笼"
+    },
+    {
+        "MapId": "0x35F1",
+        "MapName": "少林主线-放生锦鲤"
+    },
+    {
+        "MapId": "0x35F2",
+        "MapName": "少林主线-宝相庄严"
+    },
+    {
+        "MapId": "0x35F3",
+        "MapName": "少林主线-灵师授业"
+    },
+    {
+        "MapId": "0x35F4",
+        "MapName": "少林主线-佛洞禅心"
+    },
+    {
+        "MapId": "0x35F5",
+        "MapName": "少林主线-藏经疑云"
+    },
+    {
+        "MapId": "0x35F6",
+        "MapName": "少林主线-般若堂前"
+    },
+    {
+        "MapId": "0x35F7",
+        "MapName": "少林主线-夜访空寺"
+    },
+    {
+        "MapId": "0x35F8",
+        "MapName": "少林主线-真相大白"
+    },
+    {
+        "MapId": "0x512D",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x35FA",
+        "MapName": "少林主线-戒律难持"
+    },
+    {
+        "MapId": "0x35FB",
+        "MapName": "少林主线-面壁思过"
+    },
+    {
+        "MapId": "0x35FC",
+        "MapName": "少林主线-佛门事变"
+    },
+    {
+        "MapId": "0x35FD",
+        "MapName": "少林主线-碑林清雨"
+    },
+    {
+        "MapId": "0x35FE",
+        "MapName": "少林主线-涅槃自在"
+    },
+    {
+        "MapId": "0x35FF",
+        "MapName": "少林主线-隐龙谜团"
+    },
+    {
+        "MapId": "0x3600",
+        "MapName": "少林主线-重返山门"
+    },
+    {
+        "MapId": "0x3601",
+        "MapName": "少林主线-少林奇客"
+    },
+    {
+        "MapId": "0x3602",
+        "MapName": "少林主线-何处尘埃"
+    },
+    {
+        "MapId": "0x3603",
+        "MapName": "少林主线-大雪封山"
+    },
+    {
+        "MapId": "0x3AA1E",
+        "MapName": "2019开学季"
+    },
+    {
+        "MapId": "0x3AA1F",
+        "MapName": "19中秋·蟹宴开封起"
+    },
+    {
+        "MapId": "0x3606",
+        "MapName": "无所住·入世历红尘"
+    },
+    {
+        "MapId": "0x3607",
+        "MapName": "安素斋·清肴品禅味"
+    },
+    {
+        "MapId": "0x3608",
+        "MapName": "意凌云·海阔任天空"
+    },
+    {
+        "MapId": "0x3609",
+        "MapName": "少林转职位面"
+    },
+    {
+        "MapId": "0x3AA24",
+        "MapName": "江山的委托"
+    },
+    {
+        "MapId": "0x3AA25",
+        "MapName": "天火岛"
+    },
+    {
+        "MapId": "0x3AA26",
+        "MapName": "春节·红包拿来"
+    },
+    {
+        "MapId": "0x3AA27",
+        "MapName": "竹马！竹马！"
+    },
+    {
+        "MapId": "0x360E",
+        "MapName": "少林主线-漏匀回忆"
+    },
+    {
+        "MapId": "0x3AA29",
+        "MapName": "2020周年庆"
+    },
+    {
+        "MapId": "0x3AA2A",
+        "MapName": "梦回白鹭洲"
+    },
+    {
+        "MapId": "0x3AA2B",
+        "MapName": "天火岛"
+    },
+    {
+        "MapId": "0x3AA2C",
+        "MapName": "天火岛"
+    },
+    {
+        "MapId": "0x2879",
+        "MapName": "盐场域"
+    },
+    {
+        "MapId": "0x3AA2E",
+        "MapName": "北漠玄甲府-备战区"
+    },
+    {
+        "MapId": "0x3AA2F",
+        "MapName": "九华"
+    },
+    {
+        "MapId": "0x3AA30",
+        "MapName": "明月之巅"
+    },
+    {
+        "MapId": "0x2F4A",
+        "MapName": "云滇NPC劫中级单人镖1"
+    },
+    {
+        "MapId": "0x2F4B",
+        "MapName": "云滇NPC劫中级多人镖1"
+    },
+    {
+        "MapId": "0x2F4C",
+        "MapName": "云滇劫米饷纲"
+    },
+    {
+        "MapId": "0x3AA34",
+        "MapName": "天地万象任务一渔民小孩"
+    },
+    {
+        "MapId": "0x3AA35",
+        "MapName": "天地万象任务二商贾父子"
+    },
+    {
+        "MapId": "0x3AA36",
+        "MapName": "天地万象任务三机关鸟"
+    },
+    {
+        "MapId": "0x3AA37",
+        "MapName": "天地万象任务四二踢脚"
+    },
+    {
+        "MapId": "0x3AA38",
+        "MapName": "天地万象任务五阿暖"
+    },
+    {
+        "MapId": "0x3AA39",
+        "MapName": "天地万象任务六沈孤鸿"
+    },
+    {
+        "MapId": "0x3AA3A",
+        "MapName": "天地万象任务七薛无眉"
+    },
+    {
+        "MapId": "0x27165",
+        "MapName": "开封"
+    },
+    {
+        "MapId": "0x3AA3C",
+        "MapName": "江南位面-白雪孤城续"
+    },
+    {
+        "MapId": "0x27167",
+        "MapName": "天雾主线-侠岛浴火"
+    },
+    {
+        "MapId": "0x3AA3E",
+        "MapName": "火星基地"
+    },
+    {
+        "MapId": "0x3AA3F",
+        "MapName": "千声说书"
+    },
+    {
+        "MapId": "0x3AA40",
+        "MapName": "千声说书"
+    },
+    {
+        "MapId": "0x3AA41",
+        "MapName": "千声说书"
+    },
+    {
+        "MapId": "0x2716C",
+        "MapName": "天雾主线-图穷匕见"
+    },
+    {
+        "MapId": "0x2716D",
+        "MapName": "天雾预热-匿宝之思"
+    },
+    {
+        "MapId": "0x2716E",
+        "MapName": "天雾预热-密室之谈苏小白"
+    },
+    {
+        "MapId": "0x2716F",
+        "MapName": "天雾预热-密室之谈蓝铮"
+    },
+    {
+        "MapId": "0x27170",
+        "MapName": "荆湖_天衣别院"
+    },
+    {
+        "MapId": "0x362E",
+        "MapName": "天泪主线-西域岛主"
+    },
+    {
+        "MapId": "0x362F",
+        "MapName": "天泪主线-达摩手卷"
+    },
+    {
+        "MapId": "0x3630",
+        "MapName": "天泪主线-真假岛主"
+    },
+    {
+        "MapId": "0x3631",
+        "MapName": "天泪主线-扑朔迷离"
+    },
+    {
+        "MapId": "0x3632",
+        "MapName": "天泪主线-血案已成"
+    },
+    {
+        "MapId": "0x3633",
+        "MapName": "天泪主线-查明真相"
+    },
+    {
+        "MapId": "0x27178",
+        "MapName": "2021中秋月饼"
+    },
+    {
+        "MapId": "0x27179",
+        "MapName": "移花仙剑奇遇"
+    },
+    {
+        "MapId": "0x3636",
+        "MapName": "天泪主线-醉心之试"
+    },
+    {
+        "MapId": "0x3637",
+        "MapName": "天泪主线-扶风自净"
+    },
+    {
+        "MapId": "0x3638",
+        "MapName": "天泪主线-玉暖如初"
+    },
+    {
+        "MapId": "0x3639",
+        "MapName": "天泪主线-身无长物"
+    },
+    {
+        "MapId": "0x363A",
+        "MapName": "天泪主线-欲承其重"
+    },
+    {
+        "MapId": "0x363B",
+        "MapName": "天泪主线-步云登月"
+    },
+    {
+        "MapId": "0x363C",
+        "MapName": "天泪主线-开云见日"
+    },
+    {
+        "MapId": "0x363D",
+        "MapName": "天泪主线-A类"
+    },
+    {
+        "MapId": "0x363E",
+        "MapName": "从龙主线-再入江湖"
+    },
+    {
+        "MapId": "0x363F",
+        "MapName": "从龙主线-秦氏少年"
+    },
+    {
+        "MapId": "0x3640",
+        "MapName": "从龙主线-永夜幽地"
+    },
+    {
+        "MapId": "0x3641",
+        "MapName": "从龙主线-步步为营"
+    },
+    {
+        "MapId": "0x3642",
+        "MapName": "从龙主线-主事者玄"
+    },
+    {
+        "MapId": "0x3643",
+        "MapName": "从龙主线-剪龙神兵白鬼伞集"
+    },
+    {
+        "MapId": "0x3644",
+        "MapName": "从龙主线-醒龙之宴"
+    },
+    {
+        "MapId": "0x3645",
+        "MapName": "从龙主线-我心如月"
+    },
+    {
+        "MapId": "0x3646",
+        "MapName": "从龙主线-暗夜墓场"
+    },
+    {
+        "MapId": "0x3647",
+        "MapName": "从龙主线-暗战从龙"
+    },
+    {
+        "MapId": "0x3648",
+        "MapName": "意凌云·海阔任天空"
+    },
+    {
+        "MapId": "0x3649",
+        "MapName": "清明祭·丹心寄人间"
+    },
+    {
+        "MapId": "0x364A",
+        "MapName": "长相思·幽夜照影来"
+    },
+    {
+        "MapId": "0x364B",
+        "MapName": "四盟转双盟-天下两分"
+    },
+    {
+        "MapId": "0x364C",
+        "MapName": "天香·天香之戒"
+    },
+    {
+        "MapId": "0x364D",
+        "MapName": "天香·重华乱舞"
+    },
+    {
+        "MapId": "0x364E",
+        "MapName": "天香·星罗棋布"
+    },
+    {
+        "MapId": "0x364F",
+        "MapName": "天香·白鹭为州"
+    },
+    {
+        "MapId": "0x3650",
+        "MapName": "天香·密云不雨"
+    },
+    {
+        "MapId": "0x3651",
+        "MapName": "天香·香伞玄机"
+    },
+    {
+        "MapId": "0x3652",
+        "MapName": "东越·恶蛟岛"
+    },
+    {
+        "MapId": "0x3656",
+        "MapName": "天香·百花争望"
+    },
+    {
+        "MapId": "0x3657",
+        "MapName": "天香·杏林"
+    },
+    {
+        "MapId": "0x3658",
+        "MapName": "天香·万蝶坪"
+    },
+    {
+        "MapId": "0x3659",
+        "MapName": "天香·领路"
+    },
+    {
+        "MapId": "0x365A",
+        "MapName": "东越·天香谷"
+    },
+    {
+        "MapId": "0x5191",
+        "MapName": "四盟旧弈-资源据点"
+    },
+    {
+        "MapId": "0x1D53D",
+        "MapName": "燕云门派试练"
+    },
+    {
+        "MapId": "0x1D53E",
+        "MapName": "巴蜀门派试练"
+    }
+]

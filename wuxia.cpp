@@ -67,13 +67,13 @@ bool __GetWuXiaProcess() {
 					continue;
 				}
 
-				if (PebPadding3_Data == 0x1234) {
+				if (PebPadding3_Data == 0xC128) {
 					WuXiaId.insert(ProcessInformation->ProcessId);
 					CloseHandle(ProcessHandle);
 					continue;
 				}
 
-				unsigned __int32 PebPadding3_Flag = 0x1234;
+				unsigned __int32 PebPadding3_Flag = 0xC128;
 				SIZE_T NumberOfBytesWritten = 0;
 				Status = ZwWriteVirtualMemory(ProcessHandle, PebPadding3, &PebPadding3_Flag, sizeof(unsigned __int32), &NumberOfBytesWritten);
 				if (NT_ERROR(Status)) {
